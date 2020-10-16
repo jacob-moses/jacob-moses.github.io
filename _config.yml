@@ -1,2 +1,4 @@
 name: Jacob Moses
 	markdown: kramdown
+
+theme: jekyll-theme-cayman
