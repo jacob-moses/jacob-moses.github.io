@@ -2,18 +2,15 @@
 title: Jacob Moses
 ---
 # Hi there, I’m Jacob Moses
-<nav class="UnderlineNav" aria-label="Foo bar">
-  <div class="UnderlineNav-body">
-    <a class="UnderlineNav-item" href="#url" aria-current="page">Item 1</a>
-    <a class="UnderlineNav-item" href="#url">Item 2</a>
-    <a class="UnderlineNav-item" href="#url">Item 3</a>
-    <a class="UnderlineNav-item" href="#url">Item 4</a>
-  </div>
-  <div class="UnderlineNav-actions">
-    <a class="btn btn-sm">Button</a>
+<nav class="UnderlineNav">
+  <div class="UnderlineNav-body" role="tablist">
+    <button class="UnderlineNav-item" role="tab" type="button" aria-selected="true">Item 1</button>
+    <button class="UnderlineNav-item" role="tab" type="button">Item 2</button>
+    <button class="UnderlineNav-item" role="tab" type="button">Item 3</button>
+    <button class="UnderlineNav-item" role="tab" type="button">Item 4</button>
   </div>
 </nav>
-Jacob Moses is a historian of biomedicine and biotechnology in the 20th and 21st centuries, with a particular interest in issues of ethics and governance. I earned by PhD at Harvard University and am currently a postdoctoral fellow at Johns Hopkins University.
+Jacob Moses is a historian of biomedicine and biotechnology in the 20th and 21st centuries, with a particular interest in issues of ethics and governance. I completed my PhD in History of Science at Harvard University and earned a secondary field in Science, Technology, and Society Studies. I am currently a postdoctoral fellow at Johns Hopkins University. After graduating from Vassar College, I worked for several years at The Hastings Center, a founding institution in bioethics.
 
 <div class="col-6">
   <a class="d-block box-shadow-medium px-3 pt-4 pb-6 position-relative rounded-1 overflow-hidden no-underline" href="#">
