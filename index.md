@@ -2,6 +2,17 @@
 title: Jacob Moses
 ---
 # Hi there, I’m Jacob Moses
+<nav class="UnderlineNav" aria-label="Foo bar">
+  <div class="UnderlineNav-body">
+    <a class="UnderlineNav-item" href="#url" aria-current="page">Item 1</a>
+    <a class="UnderlineNav-item" href="#url">Item 2</a>
+    <a class="UnderlineNav-item" href="#url">Item 3</a>
+    <a class="UnderlineNav-item" href="#url">Item 4</a>
+  </div>
+  <div class="UnderlineNav-actions">
+    <a class="btn btn-sm">Button</a>
+  </div>
+</nav>
 Jacob Moses is a historian of biomedicine and biotechnology in the 20th and 21st centuries, with a particular interest in issues of ethics and governance. I earned by PhD at Harvard University and am currently a postdoctoral fellow at Johns Hopkins University.
 
 <div class="col-6">
