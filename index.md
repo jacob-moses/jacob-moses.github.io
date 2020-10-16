@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hank Quinlan, Test
+title: Jacob D. Moses, PhD
 ---
-# Hi there, I'm Hank Quinlan!! Test
-I'm best known as the horrible cop from _A Touch of Evil_ Don't trust me. [Read more about my life...](/about.html)
+# Hi there, I’m Jacob
+Jacob Moses is a historian of biomedicine and biotechnology in the 20th and 21st centuries, with a particular interest in issues of ethics and governance. I earned by PhD at Harvard University and am currently a postdoctoral fellow at Johns Hopkins University.
