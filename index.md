@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Jacob Moses
 ---
 # Hi there, I’m Jacob
