@@ -1,3 +1,3 @@
 name: Jacob Moses
 markdown: kramdown
-remote_theme: daattali/beautiful-jekyll
+theme: jekyll-theme-primer
