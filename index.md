@@ -2,78 +2,26 @@
 title: Jacob Moses
 ---
 # Hi there, I’m Jacob Moses
-<nav class="UnderlineNav">
-  <div class="UnderlineNav-body" role="tablist">
-    <button class="UnderlineNav-item" role="tab" type="button" aria-selected="true">Item 1</button>
-    <button class="UnderlineNav-item" role="tab" type="button">Item 2</button>
-    <button class="UnderlineNav-item" role="tab" type="button">Item 3</button>
-    <button class="UnderlineNav-item" role="tab" type="button">Item 4</button>
-  </div>
-</nav>
-Jacob Moses is a historian of biomedicine and biotechnology in the 20th and 21st centuries, with a particular interest in issues of ethics and governance. I completed my PhD in History of Science at Harvard University and earned a secondary field in Science, Technology, and Society Studies. I am currently a postdoctoral fellow at Johns Hopkins University. After graduating from Vassar College, I worked for several years at The Hastings Center, a founding institution in bioethics.
+<div class="UnderlineNav width-full box-shadow-none">
+            <nav class="UnderlineNav-body" data-pjax="" aria-label="User profile">
+    <a aria-current="page" class="UnderlineNav-item selected " data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:1212885,&quot;target&quot;:&quot;TAB_OVERVIEW&quot;,&quot;user_id&quot;:882624,&quot;originating_url&quot;:&quot;https://github.com/coliff&quot;}}" data-hydro-click-hmac="1ae4ebd43af0d94fef32c1fb20ac633af35bdb1714470cbe3e56c96b07e14c59" href="/coliff">
+      <svg classes="UnderlineNav-octicon" hide="sm" height="16" class="octicon octicon-book UnderlineNav-octicon hide-sm" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"></path></svg>
+      Overview
+</a>
+    <a class="UnderlineNav-item " data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:1212885,&quot;target&quot;:&quot;TAB_REPOSITORIES&quot;,&quot;user_id&quot;:882624,&quot;originating_url&quot;:&quot;https://github.com/coliff&quot;}}" data-hydro-click-hmac="cee0adbaebef813e9d1e288c771dca6337917dd3654fbfcae08dc817e1cf0953" href="/coliff?tab=repositories">
+      <svg classes="UnderlineNav-octicon" hide="sm" height="16" class="octicon octicon-repo UnderlineNav-octicon hide-sm" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
+      Repositories
+      <span title="386" class="Counter ">386</span>
+</a>
+    <a class="UnderlineNav-item " data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:1212885,&quot;target&quot;:&quot;TAB_PROJECTS&quot;,&quot;user_id&quot;:882624,&quot;originating_url&quot;:&quot;https://github.com/coliff&quot;}}" data-hydro-click-hmac="5e3ba116fab72d7374bc990d93636b420a3fbf884a07091a990b5130c0e9d15f" href="/coliff?tab=projects">
+      <svg classes="UnderlineNav-octicon" hide="sm" height="16" class="octicon octicon-project UnderlineNav-octicon hide-sm" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z"></path></svg>
+      Projects
+      <span title="0" hidden="hidden" class="Counter ">0</span>
+</a>
+      <a class="UnderlineNav-item " data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:1212885,&quot;target&quot;:&quot;TAB_PACKAGES&quot;,&quot;user_id&quot;:882624,&quot;originating_url&quot;:&quot;https://github.com/coliff&quot;}}" data-hydro-click-hmac="1aa0c47b06810901c18012dd80dc5fc2696fd83465b8575610e5e42dd77885f8" href="/coliff?tab=packages">
+        <svg classes="UnderlineNav-octicon" hide="sm" height="16" class="octicon octicon-package UnderlineNav-octicon hide-sm" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.878.392a1.75 1.75 0 00-1.756 0l-5.25 3.045A1.75 1.75 0 001 4.951v6.098c0 .624.332 1.2.872 1.514l5.25 3.045a1.75 1.75 0 001.756 0l5.25-3.045c.54-.313.872-.89.872-1.514V4.951c0-.624-.332-1.2-.872-1.514L8.878.392zM7.875 1.69a.25.25 0 01.25 0l4.63 2.685L8 7.133 3.245 4.375l4.63-2.685zM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432L2.5 5.677zm6.25 8.271l4.625-2.683a.25.25 0 00.125-.216V5.677L8.75 8.432v5.516z"></path></svg>
+        Packages
+</a>  </nav>
 
-<div class="col-6">
-  <a class="d-block box-shadow-medium px-3 pt-4 pb-6 position-relative rounded-1 overflow-hidden no-underline" href="#">
-    <div class="bg-blue position-absolute top-0 left-0 py-1 width-full"></div>
-    <h3 class="text-gray-dark">Serverless architecture</h3>
-    <p class="text-gray">
-      Build powerful, event-driven, serverless architectures with these open-source libraries and frameworks.
-    </p>
-    <ul class="position-absolute bottom-0 pb-3 text-small text-gray list-style-none ">
-      <li class="d-inline-block mr-1">
-        <!-- <%= octicon "repo", :class => "mr-1" %> -->
-        <svg class="octicon octicon-repo mr-1" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"></path></svg>
-        12 Repositories
-      </li>
-      <li class="d-inline-block">
-        <!-- <%= octicon "code", :class => "mr-1" %> -->
-        <svg class="octicon octicon-code mr-1" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"></path></svg>
-        5 Languages
-      </li>
-    </ul>
-  </a>
-</div>
-
-<div class="col-6">
-  <a class="d-block box-shadow-medium px-3 pt-4 pb-6 position-relative rounded-1 overflow-hidden no-underline" href="#">
-    <div class="bg-blue position-absolute top-0 left-0 py-1 width-full"></div>
-    <h3 class="text-gray-dark">Serverless architecture</h3>
-    <p class="text-gray">
-      Build powerful, event-driven, serverless architectures with these open-source libraries and frameworks.
-    </p>
-    <ul class="position-absolute bottom-0 pb-3 text-small text-gray list-style-none ">
-      <li class="d-inline-block mr-1">
-        <!-- <%= octicon "repo", :class => "mr-1" %> -->
-        <svg class="octicon octicon-repo mr-1" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"></path></svg>
-        12 Repositories
-      </li>
-      <li class="d-inline-block">
-        <!-- <%= octicon "code", :class => "mr-1" %> -->
-        <svg class="octicon octicon-code mr-1" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"></path></svg>
-        5 Languages
-      </li>
-    </ul>
-  </a>
-</div>
-
-<div class="col-6">
-  <a class="d-block box-shadow-medium px-3 pt-4 pb-6 position-relative rounded-1 overflow-hidden no-underline" href="#">
-    <div class="bg-blue position-absolute top-0 left-0 py-1 width-full"></div>
-    <h3 class="text-gray-dark">Serverless architecture</h3>
-    <p class="text-gray">
-      Build powerful, event-driven, serverless architectures with these open-source libraries and frameworks.
-    </p>
-    <ul class="position-absolute bottom-0 pb-3 text-small text-gray list-style-none ">
-      <li class="d-inline-block mr-1">
-        <!-- <%= octicon "repo", :class => "mr-1" %> -->
-        <svg class="octicon octicon-repo mr-1" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"></path></svg>
-        12 Repositories
-      </li>
-      <li class="d-inline-block">
-        <!-- <%= octicon "code", :class => "mr-1" %> -->
-        <svg class="octicon octicon-code mr-1" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"></path></svg>
-        5 Languages
-      </li>
-    </ul>
-  </a>
-</div>
+        </div>
+Jacob Moses is a historian of biomedicine and biotechnology in the 20th and 21st centuries, with a particular interest in issues of ethics and governance. I completed my PhD in History of Science at Harvard University and earned a secondary field in Science, Technology, and Society Studies. I am currently a postdoctoral fellow at Johns Hopkins University. After graduating from Vassar College, I worked for several years at The Hastings Center, a bioethics research institute.
