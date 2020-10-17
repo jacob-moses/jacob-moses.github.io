@@ -24,4 +24,4 @@ title: Jacob Moses
 </a>  </nav>
 
         </div>
-Jacob Moses studies biomedicine and biotechnology in the 20th and 21st centuries, with a particular interest in issues of ethics and governance. I completed my PhD in History of Science at Harvard University and earned a secondary field in Science, Technology, and Society Studies. I am currently a postdoctoral fellow at Johns Hopkins University. After graduating from Vassar College, I worked for several years at The Hastings Center, a bioethics research institute.
+Jacob Moses studies biomedicine and biotechnology in the 20th and 21st centuries, with a particular interest in issues of ethics and governance. I completed my PhD in History of Science at Harvard University and earned a secondary field in Science, Technology, and Society Studies. I am currently a postdoctoral fellow at Johns Hopkins University at the Institute of the History of Medicine and Center for Medical Humanities and Social Medicine. After graduating from Vassar College, I worked for several years at The Hastings Center, a bioethics research institute.
