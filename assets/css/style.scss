@@ -2,6 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+body {
+font-variant-ligatures: common-ligatures;
+}
 
 .markdown-body {
 font-family: warnock-pro,serif;
