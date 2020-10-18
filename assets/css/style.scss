@@ -8,13 +8,13 @@ background-color: rgb(230, 221, 222);
 color: rgb(101, 74, 78);
 }
 
-a {
+.markdown-body a {
 font-weight: 700;
 color: #443235;
 transition: background 0.4s ease-out;
 }
 
-a:hover, a:focus {
+.markdown-body a:hover, .markdown-body a:focus {
     color: #443235;
     background:#f5f1f2
 }
