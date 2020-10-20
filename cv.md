@@ -48,7 +48,7 @@ Research Assistant\	2007–09
 
 Submitted:
 
-- Under review at _Isis_: “Authenticity and Authentication in Sex-Reassignment Surgery: Judgments on the Birth and Death of the Gender Identity Clinic at Johns Hopkins Hospital, 1965–1979”
+- Under review, “Authenticity and Authentication in Sex-Reassignment Surgery: Judgments on the Birth and Death of the Gender Identity Clinic at Johns Hopkins Hospital, 1965–1979”
 
 In Preparation:
 
