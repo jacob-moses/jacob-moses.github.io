@@ -8,7 +8,7 @@ I earned my PhD in [History of Science at Harvard University][3], where I also c
 
 Before pursuing my doctoral studies, I worked for several years at[ The Hastings Center][5] on interdisciplinary bioethics research projects ranging from pandemic preparedness to synthetic biology.
 
-For further details, see my CV.
+For further details, [see my CV][6].
 ## Current project
 
 ### Heading 3
@@ -20,3 +20,4 @@ _Last updated: October 2020_
 [3]:	https://histsci.fas.harvard.edu
 [4]:	http://sts.hks.harvard.edu
 [5]:	https://www.thehastingscenter.org
+[6]:	/cv.html "Curriculum Vitae"
