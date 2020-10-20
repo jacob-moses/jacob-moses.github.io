@@ -1,8 +1,9 @@
 ---
 title: Jacob D. Moses – Postdoctoral Researcher of Science, Technology, and Medicine
 ---
-# Jacob D. Moses
+# Jacob D. Moses  
 **Postdoctoral Researcher, History of Science, Technology & Medicine**
+
 I study biomedicine and biotechnology in the 20th and 21st centuries, with a particular focus on issues of ethics and governance. At Johns Hopkins University, I am currently a postdoctoral fellow at the [Institute of the History of Medicine][1] and [Center for Medical Humanities and Social Medicine][2]. 
 
 I earned my PhD in [History of Science at Harvard University][3], where I also completed a secondary field in [Science, Technology, and Society][4]. 
