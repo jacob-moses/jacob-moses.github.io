@@ -35,7 +35,7 @@ Research Fellow in Program on Science, Technology, and Society, Harvard Kennedy 
 Ashford Fellow, Harvard University Graduate School of Arts and Sciences\	2013–20
 
 ### Professional Experience
-**The Hastings Center**, Garrison, NY
+**The Hastings Center**, Garrison, NY \	2007–13
 
 New Media Director\	2009–13
 
