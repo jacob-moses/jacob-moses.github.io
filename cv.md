@@ -1,7 +1,7 @@
 ---
 title: Jacob D. Moses – CV
 --- 
-# \	JACOB D. MOSES
+# \	Jacob D. Moses
 #### \	jacobmoses@fas.harvard.edu  
 
 ## \	Curriculum Vitae
