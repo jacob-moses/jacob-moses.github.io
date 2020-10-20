@@ -1,5 +1,5 @@
 ---
-title: Jacob D. Moses – Postdoctoral Researcher of Science, Technology, and Medicine
+title: Biography
 ---
 # Jacob D. Moses  
 **Postdoctoral Researcher, History of Science, Technology & Medicine**

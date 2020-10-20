@@ -1,5 +1,5 @@
 ---
-title: Jacob D. Moses – CV
+title: CV
 --- 
 # Jacob D. Moses
 #### jacobmoses@fas.harvard.edu  
