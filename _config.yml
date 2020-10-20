@@ -1,3 +1,8 @@
 name: Jacob D. Moses
+tagline: Postdoctoral Researcher, History of Science, Technology & Medicine
 markdown: kramdown
 theme: jekyll-theme-primer
+twitter:
+  username: jacobdmoses
+  card: summary
+url: jdmoses.com
