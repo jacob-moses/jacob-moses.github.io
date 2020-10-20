@@ -11,7 +11,7 @@ title: Jacob D. Moses – CV
 
 Ph.D., History of Science  
 A.M., History of Science  
-Secondary Graduate Field in Science, Technology & Society
+Secondary Graduate Field in Science, Technology, and Society
 
 - Dissertation: “Medical Remorse without Regret: A Moral History of Harm, Responsibility, and Emotion in American Surgery since 1945”
 - Committee: David S. Jones (chair), Allan M. Brandt, Sheila S. Jasanoff
