@@ -88,7 +88,7 @@ N. Berlinger and J. Moses, The Five People You Meet in a Pandemic and What They 
 
 “Quantifying Patients’ Affect: Decision Regret Scales and the Biomedicalization of Medical Harm,” Annual Meeting of the Society for Social Studies of Science (virtual; August 18, 2020).
 
-\*“Affect in Retrospect: Sexual Surgeries and Tracking Ethical Reform in Late-20th Century Medical Practice,” paper accepted at American Association for the History of Medicine Annual Meeting (Ann Arbor, MI; May 2020)._\* conference canceled due to COVID-19_
+\*“Affect in Retrospect: Sexual Surgeries and Tracking Ethical Reform in Late-20th Century Medical Practice,” paper accepted at American Association for the History of Medicine Annual Meeting (Ann Arbor, MI; May 2020). _\* conference canceled due to COVID-19_
 
 “Remaking the Regretful Agent: Cancer Surgery, Medical Harm, and the Role of Affect in Therapeutic Reversals,” STS Circle (Cambridge, MA; February 24, 2020).
 
