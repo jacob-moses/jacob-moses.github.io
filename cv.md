@@ -9,8 +9,8 @@ title: Jacob D. Moses – CV
 ### Education
 **Harvard University**, Cambridge, MA\	2013–20
 
-Ph.D., Department of the History of Science  
-A.M., Department of the History of Science  
+Ph.D., History of Science  
+A.M., History of Science  
 Secondary Graduate Field in Science, Technology & Society
 
 - Dissertation: “Medical Remorse without Regret: A Moral History of Harm, Responsibility, and Emotion in American Surgery since 1945”
