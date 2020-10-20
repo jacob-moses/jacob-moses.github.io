@@ -1,5 +1,5 @@
 ---
-title: Biography
+title: Short Bio
 ---
 # Jacob D. Moses  
 **Postdoctoral Researcher, History of Science, Technology & Medicine**
