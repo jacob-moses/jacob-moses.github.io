@@ -21,7 +21,7 @@ transition: background 0.4s ease-out;
 
 .markdown-body a:hover, .markdown-body a:focus {
     color: #443235;
-    background:#f5f1f2
+    background-color:#f5f1f2
 }
 
 .markdown-body {
@@ -48,6 +48,6 @@ background: -webkit-linear-gradient(#803742, #654a4e);
 }
 
 .file-icon {
-	background: url(/assets/img/file.svg) no-repeat left center;
+	background-image: url(/assets/img/file.svg) no-repeat left center;
 	padding-left: 20px;
 	}
