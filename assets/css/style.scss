@@ -60,9 +60,11 @@ background: -webkit-linear-gradient(#803742, #654a4e);
 	font-size: 14px;
 	line-height: 1.5;
 	color: rgba(255,255,255,0.7);
-	background-color: #24292e;
+	background-color: #B34D5C;
 	align-items: center;
 	flex-wrap: nowrap;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
 }
 
 .Header-item {
