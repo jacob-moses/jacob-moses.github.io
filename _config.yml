@@ -6,3 +6,7 @@ twitter:
   username: jacobdmoses
   card: summary
 url: jdmoses.com
+sass:
+    sass_dir: _sass
+	load_paths:
+	    - node_modules/
