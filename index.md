@@ -29,4 +29,4 @@ _Last updated: October 2020_
 [6]:	/cv.html "Curriculum Vitae"
 [7]:	mailto:jacobmoses@fas.harvard.edu
 
-[image-1]:	(/assets/img/jacob-moses-2017.jpg)
+[image-1]:	/assets/img/jacob-moses-2017.jpg
