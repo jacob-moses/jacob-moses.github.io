@@ -14,7 +14,7 @@ Ph.D., History of Science
 A.M., History of Science  
 Secondary Graduate Field in Science, Technology, and Society
 
-- Dissertation: “Medical Remorse without Regret: A Moral History of Harm, Responsibility, and Emotion in American Surgery since 1945”
+- Dissertation: “Medical Regret without Remorse: A Moral History of Harm, Responsibility, and Emotion in American Surgery since 1945”
 - Committee: David S. Jones (chair), Allan M. Brandt, Sheila S. Jasanoff
 - General Fields: History of Medicine (David S. Jones), Ethics and Governance of Science and Technology (Sheila S. Jasanoff), and Sociocultural Anthropology (Susan Greenhalgh)
 
