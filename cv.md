@@ -3,7 +3,7 @@ title: CV
 layout: cv
 --- 
 # Jacob D. Moses
-#### jacobmoses@fas.harvard.edu  
+#### jmoses16@jhu.edu  
 
 ## Curriculum Vitae
 
