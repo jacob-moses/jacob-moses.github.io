@@ -64,6 +64,7 @@ background: -webkit-linear-gradient(#803742, #654a4e);
 	align-items: center;
 	flex-wrap: nowrap;
 	opacity: 65%;
+	transition: opacity 0.4s ease-out;
 }
 
 .Header:hover {
