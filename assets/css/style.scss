@@ -38,3 +38,11 @@ background: -webkit-linear-gradient(#803742, #654a4e);
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
 }
+
+#short-bio img {
+	max-width: 50%;
+	float: left;
+	border: 2px gray;
+	padding: .25em;
+	margin: .5em;
+}
