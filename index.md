@@ -1,5 +1,6 @@
 ---
-title: Short Bio
+title: About
+layout: home
 ---
 # Jacob D. Moses  
 **Postdoctoral Researcher, History of Science, Technology & Medicine**
