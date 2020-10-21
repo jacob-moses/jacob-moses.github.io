@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import '@primer/css/core/index.scss';
 
 body {
 background-color: rgb(230, 221, 222);
