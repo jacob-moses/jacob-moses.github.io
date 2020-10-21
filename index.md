@@ -13,11 +13,7 @@ Before pursuing my doctoral studies, I worked for several years at[ The Hasting
 
 For further details, [see my CV][6].
 
-My email address is [jacobmoses@fas.harvard.edu][7].
-
-## Current project
-
-### Heading 3
+My email address is [jmoses16@jhu.edu][7].
 
 _Last updated: October 2020_
 
@@ -27,6 +23,6 @@ _Last updated: October 2020_
 [4]:	http://sts.hks.harvard.edu
 [5]:	https://www.thehastingscenter.org
 [6]:	/cv.html "Curriculum Vitae"
-[7]:	mailto:jacobmoses@fas.harvard.edu
+[7]:	mailto:jmoses16@jhu.edu
 
 [image-1]:	/assets/img/jacob-moses-2017.jpg
