@@ -64,13 +64,17 @@ background: -webkit-linear-gradient(#803742, #654a4e);
 	align-items: center;
 	flex-wrap: nowrap;
 	opacity: 65%;
-	transition: opacity 0.4s ease-out;
 }
 
 .Header:hover {
 	opacity: 100%;
 	transition: opacity 0.4s ease-out;
 }
+
+.Header , .Header:hover {
+	transition: opacity 0.4s ease-out;
+}
+
 .Header-item {
 	display: flex;
 	margin-right: 16px;
