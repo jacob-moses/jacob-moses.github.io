@@ -42,7 +42,7 @@ Research Assistant \	2007–09
 - Led national and international initiatives in education and public outreach using broadcast and digital media, including as deputy project director for the NOVA documentary, _Cracking Your Genetic Code_
 
 ### Publications
-::: {custom-style=Publications}
+`::: {custom-style=Publications}`
 A. Arnold-Forster, J. Moses, and S. Schotland (eds.), “Wounded Healers and the Politics of Wellbeing: Healthcare Practitioners’ Emotions in 20th Century Anglo-America,” special issue of _Journal of The History of Medicine and Allied Sciences_ (in preparation).
 
 J. Moses, “Authenticity and Authentication in Sex-Reassignment Surgery: Judgments on the Birth and Death of the Gender Identity Clinic at Johns Hopkins Hospital, 1965–1979” (under review at _Isis_).
@@ -74,7 +74,7 @@ J. Moses, “A Fair Trade? Canadian Ethics Commission Helps Recast the ‘Privac
 N. Berlinger and J. Moses, “Pandemic Flu Planning in the Community: What Can Clinical Ethicists Bring to the Public Health Table?” _Cambridge Quarterly of Healthcare Ethics_ 17, no. 4 (2008): 268–70.
 
 N. Berlinger and J. Moses, The Five People You Meet in a Pandemic and What They Need from You Today (Garrison, NY: The Hastings Center, 2007). (Also included in University of Minnesota project “Pandemic Practices: Pandemic Preparedness Tools.”)
-:::
+`:::`
 ### Conference Presentations
 ::: {custom-style=Publications}
 “Quantifying Patients’ Affect: Decision Regret Scales and the Biomedicalization of Medical Harm,” Annual Meeting of the Society for Social Studies of Science (virtual; August 18, 2020).
@@ -208,7 +208,7 @@ Early-Career Scholar Grant, American Society for Bioethics and the Humanities\	2
 
 ### References
 ::: {custom-style=References}
-{:.MyClass} David S. Jones, A. Bernard Ackerman Professor of the Culture of Medicine, Faculty of Arts and Sciences and the Faculty of Medicine, Harvard University
+David S. Jones, A. Bernard Ackerman Professor of the Culture of Medicine, Faculty of Arts and Sciences and the Faculty of Medicine, Harvard University
 
 Allan M. Brandt, Amalie Moses Kass Professor of the History of Medicine, Professor of the History of Science, Department of the History of Science, Department of Global Health and Social Medicine, Harvard University
 
