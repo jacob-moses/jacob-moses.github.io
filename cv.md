@@ -3,49 +3,59 @@ title: CV
 layout: cv
 --- 
 # Jacob D. Moses
-#### jmoses16@jhu.edu  ·  603-498-3489
+#### jmoses16@jhu.edu  
 
-### Current Appointment
-**Johns Hopkins University**, Baltimore, MD \	2020–present
-
-Postdoctoral Fellow, Institute of the History of Medicine and Center for Medical Humanities & Social Medicine, Johns Hopkins School of Medicine 
+## Curriculum Vitae
 
 ### Education
-**Harvard University**, Cambridge, MA \	Expected Nov. 2020
+**Harvard University**, Cambridge, MA\	2013–20
 
 Ph.D., History of Science  
+A.M., History of Science  
 Secondary Graduate Field in Science, Technology, and Society
 
 - Dissertation: “Medical Regret without Remorse: A Moral History of Harm, Responsibility, and Emotion in American Surgery since 1945”
 - Committee: David S. Jones (chair), Allan M. Brandt, Sheila S. Jasanoff
+- General Fields: History of Medicine (David S. Jones), Ethics and Governance of Science and Technology (Sheila S. Jasanoff), and Sociocultural Anthropology (Susan Greenhalgh)
 
-**Vassar College**, Poughkeepsie, NY \	May 2007
+**Vassar College**, Poughkeepsie, NY \	2003–07
 
 A.B., with Departmental Honors in Science, Technology, and Society
 
+### Current Appointment
+**Johns Hopkins University**, Baltimore, MD\	2020–  
+
+Postdoctoral Fellow, Institute of the History of Medicine and Center for Medical Humanities and Social Medicine, Johns Hopkins School of Medicine 
+
 ### Research Fellowships
+Graduate Fellow in Ethics, Edmond J. Safra Center for Ethics, Harvard University\	2018–19
 
-Graduate Fellow in Ethics, Edmond J. Safra Center for Ethics, Harvard University \	2018–19
+Ethics Pedagogy Fellow, Edmond J. Safra Center for Ethics, Harvard University\	2017–18
 
-Ethics Pedagogy Fellow, Edmond J. Safra Center for Ethics, Harvard University \	2017–18
+Research Fellow in Program on Science, Technology, and Society, Harvard Kennedy School\	2015–17
 
-Research Fellow in Program on Science, Technology, and Society, Harvard Kennedy School \	2015–17
+Ashford Fellow, Harvard University Graduate School of Arts and Sciences\	2013–20
 
 ### Professional Experience
-**The Hastings Center**, Garrison, NY
+**The Hastings Center**, Garrison, NY \	2007–13
 
-New Media Director \	2009–13
+New Media Director\	2009–13
 
-Research Assistant \	2007–09
+Research Assistant\	2007–09
 
-- Contributed to 12 multi-year interdisciplinary projects in bioethics funded by NIH, NSF, NEH and Ford, Sloan, Greenwall, Open Society, and other foundations
-- Led national and international initiatives in education and public outreach using broadcast and digital media, including as deputy project director for the NOVA documentary, _Cracking Your Genetic Code_
+- Gained 6 years of interdisciplinary research experience in bioethics; contributed to 12 multi-year projects funded by NIH, NSF, NEH and Ford, Sloan, Greenwall, Open Society, and other foundations; directed national and international initiatives in education and outreach using broadcast and digital media, including a PBS/NOVA documentary
 
 ### Publications
-::: {custom-style=Publications}
-A. Arnold-Forster, J. Moses, and S. Schotland (eds.), “Wounded Healers and the Politics of Wellbeing: Healthcare Practitioners’ Emotions in 20th Century Anglo-America,” special issue of _Journal of The History of Medicine and Allied Sciences_ (in preparation).
 
-J. Moses, “Authenticity and Authentication in Sex-Reassignment Surgery: Judgments on the Birth and Death of the Gender Identity Clinic at Johns Hopkins Hospital, 1965–1979” (under review at _Isis_).
+Submitted:
+
+- Under review, “Authenticity and Authentication in Sex-Reassignment Surgery: Judgments on the Birth and Death of the Gender Identity Clinic at Johns Hopkins Hospital, 1965–1979”
+
+In Preparation:
+
+- Co-editor, “Wounded Healers and the Politics of Wellbeing: Healthcare Practitioners’ Emotions in 20th Century Anglo-America,” special issue of _Journal of The History of Medicine and Allied Sciences_ (with Agnes Arnold-Forster and Samuel Schotland)
+
+Published:
 
 Krishanu Saha, J. Benjamin Hurlbut, Sheila Jasanoff, Aziza Ahmed, Anthony Appiah, Françoise Baylis, Gaymon Bennett, George Church, Glenn Cohen, George Daley, Kevin Finneran, William Hurlbut, Rudolf Jaenisch, Laurence Lwoff, John Paul Kimes, Peter Mills, Jacob Moses, Buhm Soon Park, Erik Parens, Rachel Salzman, Abha Saxena, Tania Simoncelli, O. Carter Snead, Kaushik Sunder Rajan, Robert D. Truog, Patricia Williams, and Christiane Woopen, “Building Capacity for a Global Genome Editing Observatory: Institutional Design,” _Trends in Biotechnology_ 36, no. 8 (2018): 741-743.
 
@@ -74,12 +84,12 @@ J. Moses, “A Fair Trade? Canadian Ethics Commission Helps Recast the ‘Privac
 N. Berlinger and J. Moses, “Pandemic Flu Planning in the Community: What Can Clinical Ethicists Bring to the Public Health Table?” _Cambridge Quarterly of Healthcare Ethics_ 17, no. 4 (2008): 268–70.
 
 N. Berlinger and J. Moses, The Five People You Meet in a Pandemic and What They Need from You Today (Garrison, NY: The Hastings Center, 2007). (Also included in University of Minnesota project “Pandemic Practices: Pandemic Preparedness Tools.”)
-:::
+
 ### Conference Presentations
-::: {custom-style=Publications}
+
 “Quantifying Patients’ Affect: Decision Regret Scales and the Biomedicalization of Medical Harm,” Annual Meeting of the Society for Social Studies of Science (virtual; August 18, 2020).
 
-“Affect in Retrospect: Sexual Surgeries and Tracking Ethical Reform in Late-20th Century Medical Practice,” paper accepted at American Association for the History of Medicine Annual Meeting\* (Ann Arbor, MI; May 2020). _\* conference canceled due to COVID-19_
+\*“Affect in Retrospect: Sexual Surgeries and Tracking Ethical Reform in Late-20th Century Medical Practice,” paper accepted at American Association for the History of Medicine Annual Meeting (Ann Arbor, MI; May 2020). _\* conference canceled due to COVID-19_
 
 “Remaking the Regretful Agent: Cancer Surgery, Medical Harm, and the Role of Affect in Therapeutic Reversals,” STS Circle (Cambridge, MA; February 24, 2020).
 
@@ -88,6 +98,8 @@ N. Berlinger and J. Moses, The Five People You Meet in a Pandemic and What They 
 “Radical Regrets: Cancer Surgery, Prostate-Specific Antigen Testing, and the Role of Affect in Therapeutic Reversals,” presentation at American Association for the History of Medicine Annual Meeting (Los Angeles, CA; May 11, 2018).
 
 “Remorse Without Regret: Experimentalism, Consent, Apology, and the Affective Economies of Biomedicine,” presentation at Colloquium on the History of Psychiatry & Medicine, Department of Postgraduate and Continuing Education, McLean Hospital and Center for the History of Medicine, Francis A. Countway Library of Medicine (Boston, MA; October 15, 2015).
+
+Presentation of dissertation work at seminars and workshops at Harvard University: History of Medicine Working Group (2014), Department of the History of Science Seminar (2016), Gender and Sexuality Workshop (2016), Science, Religion, and Culture Symposium (2016).
 
 “Learning to Make Difficult Ethical Decisions: A Web-Based Case Learning Approach,” presentation at 11th Annual Asia Pacific Medical Education Conference, with Jacqueline Chin, and Michael Dunn (Singapore; January 2014).
 
@@ -108,9 +120,9 @@ Panelist and Discussion Leader, National Conference on Ethics in America (United
 “Synthesizing New Science: Public Engagement and the Regulatory Debate in Synthetic Biology,” National Undergraduate Bioethics Conference (Union College, Schenectady, NY; April 25, 2008).
 
 “Making Ethical Decisions During a Pandemic: Three Duties and Five People You Need to Know,” with Nancy Berlinger, Public Health Preparedness Summit (Atlanta, GA; February 22, 2008); Association for Practical and Professional Ethics (San Antonio, TX; February 23, 2008).
-:::
+
 ### Workshop Respondent
-::: {custom-style=Publications}
+
 Comment on Louis Gerdelan, “Charting the History of Misfortune: Early Disaster Collecting in the Seventeenth-Century,” Safra Graduate Research Seminar (Harvard University; April 23, 2019).
 
 Comment on Mark Budolfson, “Methods for Quantifying Animal Wellbeing and Estimating Optimal Tradeoffs against Human Wellbeing,” Safra Faculty Seminar (Harvard University; March 12, 2019).
@@ -126,39 +138,46 @@ Comment on workshop, “Editorial Aspirations: Human Integrity at the Frontiers 
 Comment on Burcu Mutlu, “The Politics of Secrecy in ‘Tube-Baby Tourism’ from Turkey to Northern Cyprus,” Science, Religion, and Culture Colloquium (Harvard University; February 23, 2017).
 
 Comment on “Politics and Ethics of  Translational Medicine” panel, Science and Democracy Network 14th Annual Meeting (Cambridge, MA; Friday, June 26, 2015).
-:::
+
+### Graduate Training Workshops
+
+Oral History Training Workshop (Chemical Heritage Foundation, Philadelphia, PA); June 6–10, 2016)
+
+São Paulo School of Advanced Sciences on Biotechnology, Biosocialities, and the Governance of Life Sciences (University of Campinas, Brazil; August 11–15, 2014).
+
+Science and Governance at the Frontiers of Life (Harvard University; July 27–August 2, 2014)
+
 ### Teaching Experience
-::: {custom-style=Teaching}
-**Harvard College**, Cambridge, MA
 
-##### Head Teaching Fellow
+**Head Teaching Fellow**
 
-\	Medical Ethics and History (Prof. David S. Jones)\	Fall 2019
+General Education 1116: Medical Ethics and History (Prof. David S. Jones)\	2019
 
-\	Sophomore Tutorial in History of Science (Prof. Anne Harrington)\	2017
+History of Science 97: Sophomore Tutorial (Prof. Anne Harrington)\	2017
 
-\	Medical Ethics and History (Prof. David S. Jones)\	Fall 2016
+Ethical Reasoning 33: Medical Ethics and History (Prof. David S. Jones)\	2016
 
-##### Teaching Fellow
+**Teaching Fellow**
 
-\	The History and Culture of Stigma (Prof. Allan Brandt)\	 Spring 2018
+History of Science 149: The History and Culture of Stigma (Prof. Allan Brandt)\	2018
 
-\	The History and Culture of Stigma (Prof. Allan Brandt)\	Spring 2017
+History of Science 149: The History and Culture of Stigma (Prof. Allan Brandt)\	2017
 
-\	Sophomore Tutorial in History of Science (Prof. Anne Harrington)\	Spring 2016
+History of Science 97: Sophomore Tutorial (Prof. Anne Harrington)\	2016
 
-\	Knowing the World: An Introduction to the History of Science  (Prof. Alex Csiszar)\	Fall 2015
+History of Science 100: Knowing the World (Prof. Alex Csiszar)\	2015
 
-##### Undergraduate Thesis Advising
+### Undergraduate Thesis Advising
 
-\	Safa Salem, “Health as a Luxury: Historicizing the Effects of the Federal Poverty Level on Healthcare in the United States”\	2019–20
+Safa Salem, “Health as a Luxury: Historicizing the Effects of the Federal Poverty Level on Healthcare in the United States”\	2019–20
 
-\	Maetal Haas-Kogan, “Voluntary Control and Coercive Choices: Sterilization Uses and Abuses in the US,  1962–1982”\	2018–19
+Maetal Haas-Kogan, “Voluntary Control and Coercive Choices:  
+ Sterilization Uses and Abuses in the US,  1962–1982”\	2018–19
 
-\	Sarah Murphy, “The Law and Birth Control Advocacy in Massachusetts, 1916–1972”\	2017–18
+Sarah Murphy, “The Law and Birth Control Advocacy in Massachusetts, 1916–1972”\	2017–18
 
-\	Hamidah Mahmud, “Human Representation and Misrepresentation at the Chicago World Fair of 1893”\	2016–17
-:::
+Hamidah Mahmud, “Human Representation and Misrepresentation at  
+the Chicago World Fair of 1893”\	2016–17
 
 ### Professional Service
 
@@ -166,7 +185,7 @@ Peer Reviewer, _Science, Technology, and Society_\	2019
 
 House-based Advisor to Undergraduates in History and Science, Harvard University\	2019–20
 
-Managing Editor, _First 100 Days_ essay collection, http://first100days.stsprogram.org\	2017
+Managing Editor, _First 100 Days_, available at http://first100days.stsprogram.org\	2017
 
 Reviewer, Undergraduate Senior Theses in History and Science, Harvard University\	2017–20
 
@@ -180,9 +199,9 @@ Coordinator, History of Medicine Working Group, History of Science, Harvard Univ
 
 ### Awards and Travel Fellowships
 
-6 Certificates of Distinction in Teaching, Bok Center for Teaching and Learning, Harvard University: Fall 2015, Spring 2016, Spring 2017, Fall 2018, Fall 2019
+6 Certificates of Distinction in Teaching, Bok Center for Teaching and Learning, Harvard University:\	2015–19
 
-Ashford Fellowship, Harvard University Graduate School of Arts and Sciences \	2013–20
+2019 (GENED1116), 2018 (HS149), 2017 (HS97 and HS149),  2016 (ER33), 2015 (HS100)
 
 Strominger Prize Fellowship, Department of History of Science, Harvard University\	2020
 
@@ -207,12 +226,4 @@ TEDMed Front-Line Scholarship, Washington, D.C.\	2012
 Early-Career Scholar Grant, American Society for Bioethics and the Humanities\	2008
 
 ### References
-::: {custom-style=References}
-David S. Jones, A. Bernard Ackerman Professor of the Culture of Medicine, Faculty of Arts and Sciences and the Faculty of Medicine, Harvard University
-
-Allan M. Brandt, Amalie Moses Kass Professor of the History of Medicine, Professor of the History of Science, Department of the History of Science, Department of Global Health and Social Medicine, Harvard University
-
-Sheila S. Jasanoff, Pforzheimer Professor of Science and Technology Studies, Harvard University
-
-Jeremy Greene, William H. Welch Professor and Chair, Department of the History of Medicine, Johns Hopkins University
-:::
+_Available upon request._
