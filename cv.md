@@ -208,7 +208,7 @@ Early-Career Scholar Grant, American Society for Bioethics and the Humanities\	2
 
 ### References
 ::: {custom-style=References}
-David S. Jones, A. Bernard Ackerman Professor of the Culture of Medicine, Faculty of Arts and Sciences and the Faculty of Medicine, Harvard University
+{:.MyClass} David S. Jones, A. Bernard Ackerman Professor of the Culture of Medicine, Faculty of Arts and Sciences and the Faculty of Medicine, Harvard University
 
 Allan M. Brandt, Amalie Moses Kass Professor of the History of Medicine, Professor of the History of Science, Department of the History of Science, Department of Global Health and Social Medicine, Harvard University
 
@@ -216,4 +216,5 @@ Sheila S. Jasanoff, Pforzheimer Professor of Science and Technology Studies, Har
 
 Jeremy Greene, William H. Welch Professor and Chair, Department of the History of Medicine, Johns Hopkins University
 :::
+
 
