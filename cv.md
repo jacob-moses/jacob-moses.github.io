@@ -110,7 +110,7 @@ Panelist and Discussion Leader, National Conference on Ethics in America (United
 “Making Ethical Decisions During a Pandemic: Three Duties and Five People You Need to Know,” with Nancy Berlinger, Public Health Preparedness Summit (Atlanta, GA; February 22, 2008); Association for Practical and Professional Ethics (San Antonio, TX; February 23, 2008).
 :::
 ### Workshop Respondent
-::: {custom-style=Publications}
+`::: {custom-style=Publications}`
 Comment on Louis Gerdelan, “Charting the History of Misfortune: Early Disaster Collecting in the Seventeenth-Century,” Safra Graduate Research Seminar (Harvard University; April 23, 2019).
 
 Comment on Mark Budolfson, “Methods for Quantifying Animal Wellbeing and Estimating Optimal Tradeoffs against Human Wellbeing,” Safra Faculty Seminar (Harvard University; March 12, 2019).
@@ -126,7 +126,7 @@ Comment on workshop, “Editorial Aspirations: Human Integrity at the Frontiers 
 Comment on Burcu Mutlu, “The Politics of Secrecy in ‘Tube-Baby Tourism’ from Turkey to Northern Cyprus,” Science, Religion, and Culture Colloquium (Harvard University; February 23, 2017).
 
 Comment on “Politics and Ethics of  Translational Medicine” panel, Science and Democracy Network 14th Annual Meeting (Cambridge, MA; Friday, June 26, 2015).
-:::
+`:::`
 ### Teaching Experience
 ::: {custom-style=Teaching}
 **Harvard College**, Cambridge, MA

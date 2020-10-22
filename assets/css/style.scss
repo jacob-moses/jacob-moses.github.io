@@ -80,3 +80,8 @@ background: -webkit-linear-gradient(#803742, #654a4e);
 	white-space: nowrap;
 	text-transform: uppercase;
 }
+// Hide Markdown style code for Word
+
+.markdown-body code {
+	display: none;
+}
