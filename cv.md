@@ -42,7 +42,7 @@ Research Assistant \	2007–09
 - Led national and international initiatives in education and public outreach using broadcast and digital media, including as deputy project director for the NOVA documentary, _Cracking Your Genetic Code_
 
 ### Publications
-`::: {custom-style=Publications}`
+::: {custom-style=Publications}
 A. Arnold-Forster, J. Moses, and S. Schotland (eds.), “Wounded Healers and the Politics of Wellbeing: Healthcare Practitioners’ Emotions in 20th Century Anglo-America,” special issue of _Journal of The History of Medicine and Allied Sciences_ (in preparation).
 
 J. Moses, “Authenticity and Authentication in Sex-Reassignment Surgery: Judgments on the Birth and Death of the Gender Identity Clinic at Johns Hopkins Hospital, 1965–1979” (under review at _Isis_).
@@ -74,7 +74,7 @@ J. Moses, “A Fair Trade? Canadian Ethics Commission Helps Recast the ‘Privac
 N. Berlinger and J. Moses, “Pandemic Flu Planning in the Community: What Can Clinical Ethicists Bring to the Public Health Table?” _Cambridge Quarterly of Healthcare Ethics_ 17, no. 4 (2008): 268–70.
 
 N. Berlinger and J. Moses, The Five People You Meet in a Pandemic and What They Need from You Today (Garrison, NY: The Hastings Center, 2007). (Also included in University of Minnesota project “Pandemic Practices: Pandemic Preparedness Tools.”)
-`:::`
+:::
 ### Conference Presentations
 ::: {custom-style=Publications}
 “Quantifying Patients’ Affect: Decision Regret Scales and the Biomedicalization of Medical Harm,” Annual Meeting of the Society for Social Studies of Science (virtual; August 18, 2020).
@@ -110,7 +110,7 @@ Panelist and Discussion Leader, National Conference on Ethics in America (United
 “Making Ethical Decisions During a Pandemic: Three Duties and Five People You Need to Know,” with Nancy Berlinger, Public Health Preparedness Summit (Atlanta, GA; February 22, 2008); Association for Practical and Professional Ethics (San Antonio, TX; February 23, 2008).
 :::
 ### Workshop Respondent
-`::: {custom-style=Publications}`
+::: {custom-style=Publications}
 Comment on Louis Gerdelan, “Charting the History of Misfortune: Early Disaster Collecting in the Seventeenth-Century,” Safra Graduate Research Seminar (Harvard University; April 23, 2019).
 
 Comment on Mark Budolfson, “Methods for Quantifying Animal Wellbeing and Estimating Optimal Tradeoffs against Human Wellbeing,” Safra Faculty Seminar (Harvard University; March 12, 2019).
@@ -126,7 +126,7 @@ Comment on workshop, “Editorial Aspirations: Human Integrity at the Frontiers 
 Comment on Burcu Mutlu, “The Politics of Secrecy in ‘Tube-Baby Tourism’ from Turkey to Northern Cyprus,” Science, Religion, and Culture Colloquium (Harvard University; February 23, 2017).
 
 Comment on “Politics and Ethics of  Translational Medicine” panel, Science and Democracy Network 14th Annual Meeting (Cambridge, MA; Friday, June 26, 2015).
-`:::`
+:::
 ### Teaching Experience
 ::: {custom-style=Teaching}
 **Harvard College**, Cambridge, MA
