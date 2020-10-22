@@ -3,7 +3,7 @@ title: CV
 layout: cv
 --- 
 # Jacob D. Moses
-#### jmoses16@jhu.edu  ·  603-498-3489
+#### jmoses16@jhu.edu
 
 ### Current Appointment
 **Johns Hopkins University**, Baltimore, MD \	2020–present
