@@ -57,7 +57,7 @@ M. S. Race, J. Moses, C. McKay, and K. J. Venkateswaran, “Synthetic Biology in
 
 J. Moses, “The 1.5 Cultures Problem,” _Hastings Center Report_ 41, no. 1 (2011): inside cover.
 
-E. Parens, J. Johnston, and J. Moses, “Do We Need ‘Synthetic Bioethics’?” _Science_ 321 (2008): 1449 [and letter in Science 323 (2009): 339]().
+E. Parens, J. Johnston, and J. Moses, “Do We Need ‘Synthetic Bioethics’?” _Science_ 321 (2008): 1449 and letter in _Science_ 323 (2009): 339.
 
 E. Parens, J. Johnston, and J. Moses, Ethical Issues in Synthetic Biology: An Overview of the Debates (Washington, D.C.: Woodrow Wilson International Center for Scholars, 2009): 1–32.
 
@@ -216,5 +216,4 @@ Sheila S. Jasanoff, Pforzheimer Professor of Science and Technology Studies, Har
 
 Jeremy Greene, William H. Welch Professor and Chair, Department of the History of Medicine, Johns Hopkins University
 :::
-
 
