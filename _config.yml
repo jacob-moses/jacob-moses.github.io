@@ -13,3 +13,4 @@ sass:
   load_paths:
     - node_modules/
 google_analytics: G-EHX8HX5WZG
+permalink: /:basename

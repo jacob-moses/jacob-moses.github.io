@@ -161,6 +161,9 @@ Comment on “Politics and Ethics of  Translational Medicine” panel, Science a
 \	Hamidah Mahmud, “Human Representation and Misrepresentation at the Chicago World Fair of 1893”\	2016–17
 :::
 
+### Teaching Awards
+Awarded 6 Certificates of Distinction in Teaching from the Bok Center for Teaching and Learning, Harvard University: Fall 2015, Spring 2016, Spring 2017 (2), Fall 2018, Fall 2019
+
 ### Service to the Field
 
 Peer Reviewer, _Science, Technology, and Society_\	2019
@@ -178,8 +181,6 @@ Coordinator, STS Fellows, Program on Science, Technology and Society, Harvard Un
 Coordinator, History of Medicine Working Group, History of Science, Harvard University\	2014–16
 
 ### Awards and Travel Fellowships
-
-6 Certificates of Distinction in Teaching, Bok Center for Teaching and Learning, Harvard University: Fall 2015, Spring 2016, Spring 2017, Fall 2018, Fall 2019
 
 Ashford Fellowship, Harvard University Graduate School of Arts and Sciences \	2013–20
 
