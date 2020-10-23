@@ -3,7 +3,7 @@ title: CV
 layout: cv
 --- 
 # Jacob D. Moses
-#### jmoses16@jhu.edu • website: [jdmoses.com][1]
+#### [jmoses16@jhu.edu][1] • website: [jdmoses.com][2]
 
 ### Current Appointment
 **Johns Hopkins University**, Baltimore, MD \	2020–present
@@ -215,4 +215,5 @@ Sheila S. Jasanoff, Pforzheimer Professor of Science and Technology Studies, Har
 :::
 
 
-[1]:	http://jdmoses.com
+[1]:	mailto:jmoses16@jhu.edu
+[2]:	http://jdmoses.com
