@@ -43,37 +43,37 @@ Research Assistant \	2007–09
 
 ### Publications
 ::: {custom-style=Publications}
-A. Arnold-Forster, J. Moses, and S. Schotland (eds.), “Wounded Healers and the Politics of Wellbeing: Healthcare Practitioners’ Emotions in 20th Century Anglo-America,” special issue of _Journal of The History of Medicine and Allied Sciences_ (in preparation).
+A. Arnold-Forster, **J. Moses**, and S. Schotland (eds.), “Wounded Healers and the Politics of Wellbeing: Healthcare Practitioners’ Emotions in 20th Century Anglo-America,” special issue of _Journal of The History of Medicine and Allied Sciences_ (in preparation).
 
-J. Moses, “Authenticity and Authentication in Sex-Reassignment Surgery: Judgments on the Birth and Death of the Gender Identity Clinic at Johns Hopkins Hospital, 1965–1979” (under review at _Isis_).
+**J. Moses**, “Authenticity and Authentication in Sex-Reassignment Surgery: Judgments on the Birth and Death of the Gender Identity Clinic at Johns Hopkins Hospital, 1965–1979” (under review at _Isis_).
 
-K. Saha, J. B. Hurlbut, S. Jasanoff, A. Ahmed, A. Appiah, F. Baylis, G. Bennett, G. Church, G. Cohen, G. Daley, K. Finneran, W. Hurlbut, R. Jaenisch, L. Lwoff, J. P. Kimes, P. Mills, J. Moses, B. S. Park, E. Parens, R. Salzman, A. Saxena, T. Simoncelli, O. C. Snead, K. S. Rajan, R. D. Truog, P. Williams, and C. Woopen, “Building Capacity for a Global Genome Editing Observatory: Institutional Design,” _Trends in Biotechnology_ 36, no. 8 (2018): 741-743.
+K. Saha, J. B. Hurlbut, S. Jasanoff, A. Ahmed, A. Appiah, F. Baylis, G. Bennett, G. Church, G. Cohen, G. Daley, K. Finneran, W. Hurlbut, R. Jaenisch, L. Lwoff, J. P. Kimes, P. Mills, **J. Moses**, B. S. Park, E. Parens, R. Salzman, A. Saxena, T. Simoncelli, O. C. Snead, K. S. Rajan, R. D. Truog, P. Williams, and C. Woopen, “Building Capacity for a Global Genome Editing Observatory: Institutional Design,” _Trends in Biotechnology_ 36, no. 8 (2018): 741-743.
 
-J. Moses, N. Berlinger, M. C. Dunn, M. K. Gusmano, and J. J. Chin, “Bioethics Casebook 2.0: Using Web-Based Design and Tools to Promote Ethical Reflection and Practice in Health Care,” _Hastings Center Report_ 45, no. 6 (2015).
+**J. Moses**, N. Berlinger, M. C. Dunn, M. K. Gusmano, and J. J. Chin, “Bioethics Casebook 2.0: Using Web-Based Design and Tools to Promote Ethical Reflection and Practice in Health Care,” _Hastings Center Report_ 45, no. 6 (2015).
 
-J. Moses, “Bioethics Education: IV. Public Education” entry in _Encyclopedia of Bioethics_, 4th Edition, ed. B. Jennings, L. Eckenwiler, G. Kaebnick, B. Koenig, S. Krimsky, S. R. Latham, M. R. Mercurio. (New York: Macmillan, 2014).
+**J. Moses**, “Bioethics Education: IV. Public Education” entry in _Encyclopedia of Bioethics_, 4th Edition, ed. B. Jennings, L. Eckenwiler, G. Kaebnick, B. Koenig, S. Krimsky, S. R. Latham, M. R. Mercurio. (New York: Macmillan, 2014).
 
-M. S. Race, J. Moses, C. McKay, and K. J. Venkateswaran, “Synthetic Biology in Space: Considering the Broad Societal and Ethical Implications,” _International Journal of Astrobiology_ 11 (2012): 133–139.
+M. S. Race, **J. Moses**, C. McKay, and K. J. Venkateswaran, “Synthetic Biology in Space: Considering the Broad Societal and Ethical Implications,” _International Journal of Astrobiology_ 11 (2012): 133–139.
 
-J. Moses, “The 1.5 Cultures Problem,” _Hastings Center Report_ 41, no. 1 (2011): inside cover.
+**J. Moses**, “The 1.5 Cultures Problem,” _Hastings Center Report_ 41, no. 1 (2011): inside cover.
 
-E. Parens, J. Johnston, and J. Moses, “Do We Need ‘Synthetic Bioethics’?” _Science_ 321 (2008): 1449 and letter in _Science_ 323 (2009): 339.
+E. Parens, J. Johnston, and **J. Moses**, “Do We Need ‘Synthetic Bioethics’?” _Science_ 321 (2008): 1449 and letter in _Science_ 323 (2009): 339.
 
-E. Parens, J. Johnston, and J. Moses, Ethical Issues in Synthetic Biology: An Overview of the Debates (Washington, D.C.: Woodrow Wilson International Center for Scholars, 2009): 1–32.
+E. Parens, J. Johnston, and **J. Moses**, Ethical Issues in Synthetic Biology: An Overview of the Debates (Washington, D.C.: Woodrow Wilson International Center for Scholars, 2009): 1–32.
 
-J. Moses, “Are Parents Driven to Design Their Babies?” BioethicsForum.org, February 11, 2009. 
+**J. Moses**, “Are Parents Driven to Design Their Babies?” BioethicsForum.org, February 11, 2009. 
 
-J. Moses, “A Liberating Value to Biometric Technologies? A Review of Mordini and Massari’s ‘Body, Biometrics, and Identity,’” _Dialogue_ 2, no. 5 (2009): 1–3.
+**J. Moses**, “A Liberating Value to Biometric Technologies? A Review of Mordini and Massari’s ‘Body, Biometrics, and Identity,’” _Dialogue_ 2, no. 5 (2009): 1–3.
 
-J. Moses, “From Pallets to People: RFID and Technology Design,” _Dialogue_ 2, no. 1 (2009): 3–6.
+**J. Moses**, “From Pallets to People: RFID and Technology Design,” _Dialogue_ 2, no. 1 (2009): 3–6.
 
-K. Maschke and J. Moses, “Background on Privacy as Contextual Integrity,” working paper for EU-funded Homeland Security, Biometric Identification & Personal Detection Ethics (HIDE) project policy forum, Czech Republic, June 5–6, 2009.
+K. Maschke and **J. Moses**, “Background on Privacy as Contextual Integrity,” working paper for EU-funded Homeland Security, Biometric Identification & Personal Detection Ethics (HIDE) project policy forum, Czech Republic, June 5–6, 2009.
 
-J. Moses, “A Fair Trade? Canadian Ethics Commission Helps Recast the ‘Privacy vs. Security’ Dilemma,” _Dialogue_ 1, no. 2 (2008): 3–6.
+**J. Moses**, “A Fair Trade? Canadian Ethics Commission Helps Recast the ‘Privacy vs. Security’ Dilemma,” _Dialogue_ 1, no. 2 (2008): 3–6.
 
-N. Berlinger and J. Moses, “Pandemic Flu Planning in the Community: What Can Clinical Ethicists Bring to the Public Health Table?” _Cambridge Quarterly of Healthcare Ethics_ 17, no. 4 (2008): 268–70.
+N. Berlinger and **J. Moses**, “Pandemic Flu Planning in the Community: What Can Clinical Ethicists Bring to the Public Health Table?” _Cambridge Quarterly of Healthcare Ethics_ 17, no. 4 (2008): 268–70.
 
-N. Berlinger and J. Moses, The Five People You Meet in a Pandemic and What They Need from You Today (Garrison, NY: The Hastings Center, 2007). (Also included in University of Minnesota project “Pandemic Practices: Pandemic Preparedness Tools.”)
+N. Berlinger and **J. Moses**, The Five People You Meet in a Pandemic and What They Need from You Today (Garrison, NY: The Hastings Center, 2007). (Also included in University of Minnesota project “Pandemic Practices: Pandemic Preparedness Tools.”)
 :::
 ### Conference Presentations
 ::: {custom-style=Publications}
