@@ -3,4 +3,4 @@ layout: default
 ---
 <p><a class="file-icon" href="../assets/pdf/Jacob-Moses-CV.pdf">Download PDF</a></p>
 	 {% assign r= "}" %}
-	 {{ content | replace: "\", " – " | remove: ":::" | remove: " {custom-style=References" | remove: " {custom-style=Teaching" | remove: " {custom-style=Publications" | remove: r }}
+	 {{ content | replace: "\", " &middot; " | remove: ":::" | remove: " {custom-style=References" | remove: " {custom-style=Teaching" | remove: " {custom-style=Publications" | remove: r }}
