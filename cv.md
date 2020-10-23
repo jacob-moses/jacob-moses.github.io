@@ -3,7 +3,7 @@ title: CV
 layout: cv
 --- 
 # Jacob D. Moses
-#### jmoses16@jhu.edu
+#### jmoses16@jhu.edu • website: [jdmoses.com][1]
 
 ### Current Appointment
 **Johns Hopkins University**, Baltimore, MD \	2020–present
@@ -14,7 +14,7 @@ Center for Medical Humanities & Social Medicine, Johns Hopkins School of Medicin
 ### Education
 **Harvard University**, Cambridge, MA \	Expected Nov. 2020
 
-Ph.D., History of Science  
+**Ph.D.**, History of Science  
 Secondary Graduate Field in Science, Technology, and Society
 
 - Dissertation: “Medical Regret without Remorse: A Moral History of Harm, Responsibility, and Emotion in American Surgery since 1945”
@@ -22,7 +22,7 @@ Secondary Graduate Field in Science, Technology, and Society
 
 **Vassar College**, Poughkeepsie, NY \	May 2007
 
-A.B., with Departmental Honors in Science, Technology, and Society
+**A.B.**, with Departmental Honors in Science, Technology, and Society
 
 ### Research Fellowships
 
@@ -44,9 +44,9 @@ Research Assistant \	2007–09
 
 ### Publications
 ::: {custom-style=Publications}
-A. Arnold-Forster, **J. Moses**, and S. Schotland (eds.), “Wounded Healers and the Politics of Wellbeing: Healthcare Practitioners’ Emotions in 20th Century Anglo-America,” special issue of _Journal of The History of Medicine and Allied Sciences_ (in preparation).
+**In preparation:** A. Arnold-Forster, **J. Moses**, and S. Schotland (eds.), “Wounded Healers and the Politics of Wellbeing: Healthcare Practitioners’ Emotions in 20th Century Anglo-America,” special issue of _Journal of The History of Medicine and Allied Sciences_.
 
-**J. Moses**, “Authenticity and Authentication in Sex-Reassignment Surgery: Judgments on the Birth and Death of the Gender Identity Clinic at Johns Hopkins Hospital, 1965–1979” (under review at _Isis_).
+**Under review at *Isis*:** **J. Moses**, “Authenticity and Authentication in Sex-Reassignment Surgery: Judgments on the Birth and Death of the Gender Identity Clinic at Johns Hopkins Hospital, 1965–1979.”
 
 K. Saha, J. B. Hurlbut, S. Jasanoff, A. Ahmed, A. Appiah, F. Baylis, G. Bennett, G. Church, G. Cohen, G. Daley, K. Finneran, W. Hurlbut, R. Jaenisch, L. Lwoff, J. P. Kimes, P. Mills, **J. Moses**, B. S. Park, E. Parens, R. Salzman, A. Saxena, T. Simoncelli, O. C. Snead, K. S. Rajan, R. D. Truog, P. Williams, and C. Woopen, “Building Capacity for a Global Genome Editing Observatory: Institutional Design,” _Trends in Biotechnology_ 36, no. 8 (2018): 741-743.
 
@@ -161,7 +161,7 @@ Comment on “Politics and Ethics of  Translational Medicine” panel, Science a
 \	Hamidah Mahmud, “Human Representation and Misrepresentation at the Chicago World Fair of 1893”\	2016–17
 :::
 
-### Professional Service
+### Service to the Field
 
 Peer Reviewer, _Science, Technology, and Society_\	2019
 
@@ -172,8 +172,6 @@ Managing Editor, _First 100 Days_ essay collection, http://first100days.stsprogr
 Reviewer, Undergraduate Senior Theses in History and Science, Harvard University\	2017–20
 
 Research Officer, Science, Religion, and Culture Program, Harvard University\	2016–19
-
-Research Assistant to Professor Allan Brandt\	2015–18
 
 Coordinator, STS Fellows, Program on Science, Technology and Society, Harvard University\	2016–17
 
@@ -214,7 +212,7 @@ David S. Jones, A. Bernard Ackerman Professor of the Culture of Medicine, Facult
 Allan M. Brandt, Amalie Moses Kass Professor of the History of Medicine, Professor of the History of Science, Department of the History of Science, Department of Global Health and Social Medicine, Harvard University
 
 Sheila S. Jasanoff, Pforzheimer Professor of Science and Technology Studies, Harvard University
-
-Jeremy Greene, William H. Welch Professor and Chair, Department of the History of Medicine, Johns Hopkins University
 :::
 
+
+[1]:	http://jdmoses.com
