@@ -47,7 +47,7 @@ A. Arnold-Forster, J. Moses, and S. Schotland (eds.), “Wounded Healers and the
 
 J. Moses, “Authenticity and Authentication in Sex-Reassignment Surgery: Judgments on the Birth and Death of the Gender Identity Clinic at Johns Hopkins Hospital, 1965–1979” (under review at _Isis_).
 
-Krishanu Saha, J. Benjamin Hurlbut, Sheila Jasanoff, Aziza Ahmed, Anthony Appiah, Françoise Baylis, Gaymon Bennett, George Church, Glenn Cohen, George Daley, Kevin Finneran, William Hurlbut, Rudolf Jaenisch, Laurence Lwoff, John Paul Kimes, Peter Mills, Jacob Moses, Buhm Soon Park, Erik Parens, Rachel Salzman, Abha Saxena, Tania Simoncelli, O. Carter Snead, Kaushik Sunder Rajan, Robert D. Truog, Patricia Williams, and Christiane Woopen, “Building Capacity for a Global Genome Editing Observatory: Institutional Design,” _Trends in Biotechnology_ 36, no. 8 (2018): 741-743.
+K. Saha, J. B. Hurlbut, S. Jasanoff, A. Ahmed, A. Appiah, F. Baylis, G. Bennett, G. Church, G. Cohen, G. Daley, K. Finneran, W. Hurlbut, R. Jaenisch, L. Lwoff, J. P. Kimes, P. Mills, J. Moses, B. S. Park, E. Parens, R. Salzman, A. Saxena, T. Simoncelli, O. C. Snead, K. S. Rajan, R. D. Truog, P. Williams, and C. Woopen, “Building Capacity for a Global Genome Editing Observatory: Institutional Design,” _Trends in Biotechnology_ 36, no. 8 (2018): 741-743.
 
 J. Moses, N. Berlinger, M. C. Dunn, M. K. Gusmano, and J. J. Chin, “Bioethics Casebook 2.0: Using Web-Based Design and Tools to Promote Ethical Reflection and Practice in Health Care,” _Hastings Center Report_ 45, no. 6 (2015).
 
