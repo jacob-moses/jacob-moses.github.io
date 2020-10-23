@@ -149,7 +149,7 @@ Comment on “Politics and Ethics of  Translational Medicine” panel, Science a
 
 \	Knowing the World: An Introduction to the History of Science  (Prof. Alex Csiszar)\	Fall 2015
 
-##### Undergraduate Thesis Advising
+##### Undergraduate Thesis Advisor
 
 \	Safa Salem, “Health as a Luxury: Historicizing the Effects of the Federal Poverty Level on Healthcare in the United States”\	2019–20
 
