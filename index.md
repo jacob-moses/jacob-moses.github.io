@@ -22,7 +22,7 @@ _Last updated: October 2020_
 [3]:	https://histsci.fas.harvard.edu
 [4]:	http://sts.hks.harvard.edu
 [5]:	https://www.thehastingscenter.org
-[6]:	%7B%%20link%20cv.md%20%%7D "Curriculum Vitae"
+[6]:	/cv/ "Curriculum Vitae"
 [7]:	mailto:jmoses16@jhu.edu
 
 [image-1]:	/assets/img/jacob-moses-2017.jpg
