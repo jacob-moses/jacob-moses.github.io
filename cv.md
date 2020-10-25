@@ -6,7 +6,7 @@ layout: cv
 #### [jmoses16@jhu.edu][1] • website: [jdmoses.com][2]
 
 ### Current Appointment
-**Johns Hopkins University**, Baltimore, MD \	2020–present
+**Johns Hopkins University**, Baltimore, MD \	September 2020–present
 
 Postdoctoral Fellow, Institute of the History of Medicine and   
 Center for Medical Humanities & Social Medicine, Johns Hopkins School of Medicine 
