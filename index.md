@@ -7,7 +7,7 @@ layout: home
 
 ![Photo of Jacob Moses leading a session at a teaching and learning conference at Harvard University.][image-1]I study biomedicine and biotechnology in the 20th and 21st centuries, with a particular focus on issues of ethics and governance. At Johns Hopkins University, I am currently a postdoctoral fellow at the [Institute of the History of Medicine][1] and [Center for Medical Humanities and Social Medicine][2]. 
 
-I earned my PhD in [History of Science at Harvard University][3], where I also completed a secondary field in [Science, Technology, and Society][4]. 
+I earned my PhD in [History of Science at Harvard University][3] in 2020, where I also completed a secondary field in [Science, Technology, and Society][4]. 
 
 Before pursuing my doctoral studies, I worked for several years at[ The Hastings Center][5] on interdisciplinary bioethics research projects ranging from pandemic preparedness to synthetic biology.
 
