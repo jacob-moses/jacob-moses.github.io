@@ -8,7 +8,7 @@ layout: cv
 ### Current Appointment
 **Johns Hopkins University**, Baltimore, MD \	Sept. 2020–present
 
-Postdoctoral Fellow, Institute of the History of Medicine and   
+Postdoctoral Fellow, Institute of the History of Medicine and  
 Center for Medical Humanities & Social Medicine, Johns Hopkins School of Medicine 
 
 ### Education
@@ -46,7 +46,7 @@ Research Assistant \	2007–09
 ::: {custom-style=Publications}
 **In preparation:** A. Arnold-Forster, **J. Moses**, and S. Schotland (eds.), “Wounded Healers and the Politics of Wellbeing: Healthcare Practitioners’ Emotions in 20th Century Anglo-America,” special issue of _Journal of The History of Medicine and Allied Sciences_.
 
-**Under review at *Isis*:** **J. Moses**, “Authenticity and Authentication in Sex-Reassignment Surgery: Judgments on the Birth and Death of the Gender Identity Clinic at Johns Hopkins Hospital, 1965–1979.”
+**Under review:** **J. Moses**, “Authenticity and Authentication in Sex-Reassignment Surgery: Judgments on the Birth and Death of the Gender Identity Clinic at Johns Hopkins Hospital, 1965–1979.”
 
 K. Saha, J. B. Hurlbut, S. Jasanoff, A. Ahmed, A. Appiah, F. Baylis, G. Bennett, G. Church, G. Cohen, G. Daley, K. Finneran, W. Hurlbut, R. Jaenisch, L. Lwoff, J. P. Kimes, P. Mills, **J. Moses**, B. S. Park, E. Parens, R. Salzman, A. Saxena, T. Simoncelli, O. C. Snead, K. S. Rajan, R. D. Truog, P. Williams, and C. Woopen, “Building Capacity for a Global Genome Editing Observatory: Institutional Design,” _Trends in Biotechnology_ 36, no. 8 (2018): 741-743.
 
