@@ -39,7 +39,7 @@ background: -webkit-linear-gradient(#803742, #654a4e);
 -webkit-text-fill-color: transparent;
 }
 
-#short-bio img {
+#short-bio img, #teaching-text img {
 	max-width: 50%;
 	float: left;
 	border: 2px gray;
@@ -47,7 +47,7 @@ background: -webkit-linear-gradient(#803742, #654a4e);
 	margin: .5em;
 }
 
-#teaching img {
+#teaching-text img {
 	float: right;
 }
 
