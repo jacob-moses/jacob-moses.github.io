@@ -25,4 +25,4 @@ _Last updated: October 2020_
 [6]:	/cv/ "Curriculum Vitae"
 [7]:	mailto:jmoses16@jhu.edu
 
-[image-1]:	/assets/img/jacob-moses-2017.jpg
+[image-1]:	/assets/img/jacob-moses-20.jpg
