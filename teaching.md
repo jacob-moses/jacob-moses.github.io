@@ -9,7 +9,7 @@ layout: teaching
 
 I am interested in seeking out innovative methods of teaching and assessing learning. I was an inaugural pedagogy fellow at the Edmond J. Safra Center of Ethics at Harvard University, where I focused on project-based learning and syllabus design. I have taught in flipped-classroom models and co-designed workshop courses centered on the development of student projects.
 
-I have received six Certificates of Distinction in Teaching from the Bok Center for Teaching and Learning for my teaching at Harvard College.
+I have received six Certificates of Distinction in Teaching from Harvard University’s Bok Center for Teaching and Learning.
 
 For further details, [see my CV][1].
 
