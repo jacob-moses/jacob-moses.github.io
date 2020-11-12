@@ -14,3 +14,8 @@ sass:
     - node_modules/
 google_analytics: G-EHX8HX5WZG
 permalink: /:basename/
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/jacob-moses-20.jpg

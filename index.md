@@ -3,7 +3,7 @@ title: About
 layout: home
 ---
 # Jacob D. Moses  
-**Postdoctoral Researcher, History of Science, Technology & Medicine**
+**Postdoctoral Researcher, History of Science, Technology & Medicine, Johns Hopkins University**
 
 ![Photo of Jacob Moses leading a session at a teaching and learning conference at Harvard University.][image-1]I study biomedicine and biotechnology in the 20th and 21st centuries, with a particular focus on issues of ethics and governance. My research and teaching interests include the history of medicine; the history of emotions in science, technology, and medicine; bureaucratic and affective responses to medical harm; medical decision-making; the history of surgery; gender, sexuality, and the body; and bioethics. At Johns Hopkins University, I am currently a postdoctoral fellow at the [Institute of the History of Medicine][1] and [Center for Medical Humanities and Social Medicine][2]. 
 
