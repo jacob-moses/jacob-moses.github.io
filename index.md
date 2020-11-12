@@ -9,7 +9,7 @@ layout: home
 
 I earned my Ph.D. in [History of Science at Harvard University][3] in 2020, where I also completed a secondary field in [Science, Technology, and Society][4]. 
 
-Before pursuing my doctoral studies, I worked for several years at[ The Hastings Center][5] on interdisciplinary bioethics research projects ranging from pandemic preparedness to synthetic biology.
+Before pursuing my doctoral studies, I worked for several years at[ The Hastings Center][5] on interdisciplinary bioethics research projects ranging from pandemic preparedness to the ethics of synthetic biology.
 
 For further details, [see my CV][6].
 
