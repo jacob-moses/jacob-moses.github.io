@@ -215,6 +215,5 @@ Allan M. Brandt, Amalie Moses Kass Professor of the History of Medicine, Profess
 Sheila S. Jasanoff, Pforzheimer Professor of Science and Technology Studies, Harvard University
 :::
 
-
 [1]:	mailto:jmoses16@jhu.edu
 [2]:	http://jdmoses.com

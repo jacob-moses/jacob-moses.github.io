@@ -15,7 +15,6 @@ For further details, [see my CV][6].
 
 My email address is [jmoses16@jhu.edu][7].
 
-[https://orcid.org/0000-0001-8089-3870][8]
 _Last updated: October 2020_
 
 [1]:	https://hopkinshistoryofmedicine.org
@@ -25,6 +24,5 @@ _Last updated: October 2020_
 [5]:	https://www.thehastingscenter.org
 [6]:	/cv/ "Curriculum Vitae"
 [7]:	mailto:jmoses16@jhu.edu
-[8]:	https://orcid.org/0000-0001-8089-3870
 
 [image-1]:	/assets/img/jacob-moses-20.jpg
