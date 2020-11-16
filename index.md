@@ -5,7 +5,7 @@ layout: home
 # Jacob D. Moses  
 **Postdoctoral Researcher, History of Science, Technology & Medicine, Johns Hopkins University**
 
-![Photo of Jacob Moses outside in front of trees and a brick wall.][image-1]I study biomedicine and biotechnology in the 20th and 21st centuries, with a particular focus on issues of ethics and governance. My research and teaching interests include the history of medicine; STS; the history of emotions in science, technology, and medicine; medical decision-making; the history of surgery; gender, sexuality, and the body; and bioethics. I am currently a postdoctoral fellow at Johns Hopkins University’s [Institute of the History of Medicine][1] and [Center for Medical Humanities and Social Medicine][2].
+![Photo of Jacob Moses outside in front of trees and a brick wall.][image-1]I study biomedicine and biotechnology in the 20th and 21st centuries, with a particular focus on issues of ethics and governance. My research and teaching interests include the history of medicine; science and technology studies; the history of emotions in science, technology, and medicine; medical decision-making; the history of surgery; gender, sexuality, and the body; and bioethics. I am currently a postdoctoral fellow at Johns Hopkins University’s [Institute of the History of Medicine][1] and [Center for Medical Humanities and Social Medicine][2].
 
 My current book project, _Medical Regret without Remorse_, traces the history of therapeutic reversals in surgical practice since 1945, offering a new account of how affect plays a role both among patients and medical professionals in shaping the current regime of biomedicine. In this work, I develop a concept of “medical regret” to illuminate bureaucratic and affective responses to medical harm.
 
