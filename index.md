@@ -15,8 +15,6 @@ Before pursuing my doctoral studies, I worked for several years at[ The Hasting
 
 For further details, [see my CV][6].
 
-My email address is [jmoses16@jhu.edu][7].
-
 _Last updated: November 2020_
 
 [1]:	https://hopkinshistoryofmedicine.org
@@ -25,6 +23,5 @@ _Last updated: November 2020_
 [4]:	http://sts.hks.harvard.edu
 [5]:	https://www.thehastingscenter.org
 [6]:	/cv/ "Curriculum Vitae"
-[7]:	mailto:jmoses16@jhu.edu
 
 [image-1]:	/assets/img/jacob-moses-20.jpg
