@@ -85,7 +85,11 @@ background: -webkit-linear-gradient(#803742, #654a4e);
 	text-transform: uppercase;
 }
 
-.Teaching .Header-link.teaching-link, .About .Header-link.about-link, .CV .Header-link.cv-link, .Contact .Header.link.cv-link {
+.Header-link:hover {
+	text-decoration: overline;
+}
+
+.Teaching .Header-link.teaching-link, .About .Header-link.about-link, .CV .Header-link.cv-link, .Contact .Header.link.contact-link {
 	text-decoration: overline;
 }
 
