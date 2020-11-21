@@ -84,14 +84,17 @@ background: -webkit-linear-gradient(#803742, #654a4e);
 	color: #fff;
 	white-space: nowrap;
 	text-transform: uppercase;
+	opacity: .75;
 }
 
 .Header-link:hover {
 	text-decoration: overline;
+	opacity: 1;
 }
 
 .Teaching .Header-link.teaching-link, .About .Header-link.about-link, .CV .Header-link.cv-link, .Contact .Header-link.contact-link {
 	text-decoration: overline;
+	color: #fff;
 }
 
 // Hide Markdown style code for Word
