@@ -95,6 +95,7 @@ background: -webkit-linear-gradient(#803742, #654a4e);
 .Teaching .Header-link.teaching-link, .About .Header-link.about-link, .CV .Header-link.cv-link, .Contact .Header-link.contact-link {
 	text-decoration: overline;
 	color: #fff;
+	opacity: 1;
 }
 
 // Hide Markdown style code for Word
