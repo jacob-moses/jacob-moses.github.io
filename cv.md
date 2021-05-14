@@ -76,7 +76,7 @@ N. Berlinger and **J. Moses**, The Five People You Meet in a Pandemic and What T
 :::
 ### Conference Presentations
 ::: {custom-style=Publications}
-“Affect in Retrospect: Genital Surgeries and Tracking Ethical Reform in Late-20th Century Medical Practice,” American Association for the History of Medicine Ann Arbor 2.0 Conference Panel 7 (Virtual; December 9, 2020).
+“Affect in Retrospect: Genital Surgeries and Tracking Ethical Reform in Late-20th Century Medical Practice,” American Association for the History of Medicine Ann Arbor 2.0 Conference Panel 7 (virtual; December 9, 2020).
 
 “Quantifying Patients’ Affect: Decision Regret Scales and the Biomedicalization of Medical Harm,” Annual Meeting of the Society for Social Studies of Science (virtual; August 18, 2020).
 
@@ -110,6 +110,14 @@ Panelist and Discussion Leader, National Conference on Ethics in America (United
 
 “Making Ethical Decisions During a Pandemic: Three Duties and Five People You Need to Know,” with Nancy Berlinger, Public Health Preparedness Summit (Atlanta, GA; February 22, 2008); Association for Practical and Professional Ethics (San Antonio, TX; February 23, 2008).
 :::
+
+### Workshops Convened
+::: {custom-style=Publications}
+“Graduate Fellows Workshop,” Johns Hopkins Center for Medical Humanities and Social Medicine (Baltimore, MD; April 16, 2021).
+
+“What Should Democracies Know?,” with Gili Vidan, Harvard Program on Science, Technology & Society (Cambridge, MA; December 8, 2016).
+:::
+
 ### Workshop Respondent
 ::: {custom-style=Publications}
 Comment on Louis Gerdelan, “Charting the History of Misfortune: Early Disaster Collecting in the Seventeenth-Century,” Safra Graduate Research Seminar (Harvard University; April 23, 2019).
@@ -128,9 +136,27 @@ Comment on Burcu Mutlu, “The Politics of Secrecy in ‘Tube-Baby Tourism’ fr
 
 Comment on “Politics and Ethics of  Translational Medicine” panel, Science and Democracy Network 14th Annual Meeting (Cambridge, MA; Friday, June 26, 2015).
 :::
+
+### Public Media
+
+“Progress, What’s It Good For?,” interview with Kieran Fitzpatrick, Body Politics: The Podcast Where History, Medicine, and Society Collide (April 23, 2021). 
+
 ### Teaching Experience
 ::: {custom-style=Teaching}
-**Harvard College**, Cambridge, MA
+##### **Johns Hopkins University**, Baltimore, MD
+
+##### Instructor
+
+\	The History of Medicine in Place (with Graham Mooney), MA-level\	Spring 2021
+
+\	Medical Humanities and Social Medicine in Practice (with Joseph Carrese, Jeremy Greene, Graham Mooney, Carolyn Sufrin, Gail Geller), MD-level \Spring 2021
+
+\	Healing Spaces: Historical Geographies of Medical Practice (with Graham Mooney), MA-level\	Fall 2020
+
+\	Introduction to Social Medicine (with Jeremy Greene, Graham Mooney, Carolyn Sufrin, Alexandre White), MD-level\ Fall 2020
+
+
+##### **Harvard College**, Cambridge, MA
 
 ##### Head Teaching Fellow
 
