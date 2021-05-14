@@ -166,6 +166,8 @@ Awarded 6 Certificates of Distinction in Teaching from the Bok Center for Teachi
 
 ### Service to the Field
 
+Peer Reviewer, _Hastings Center Report_\	2021
+
 Peer Reviewer, _Science, Technology, and Society_\	2019
 
 House-based Advisor to Undergraduates in History and Science, Harvard University\	2019–20
