@@ -150,6 +150,8 @@ Comment on “Politics and Ethics of  Translational Medicine” panel, Science a
 
 ##### Instructor
 
+\	Introduction to the History of Medicine, MA-level\	Fall 2021
+
 \	The History of Medicine in Place (with Graham Mooney), MA-level\	Spring 2021
 
 \	Medical Humanities and Social Medicine in Practice (with Joseph Carrese, Jeremy Greene, Graham Mooney, Carolyn Sufrin, Gail Geller), MD-level \Spring 2021
