@@ -76,6 +76,9 @@ N. Berlinger and **J. Moses**, The Five People You Meet in a Pandemic and What T
 :::
 ### Conference Presentations
 ::: {custom-style=Publications}
+
+“Selective Affinities: Reflections on Teaching STS in a Medical School,” Speaker on STS Pedagogy Panel, Science and Democracy Network, 2021 Annual Meeting, (virtual; June 25, 2021). 
+
 “Affect in Retrospect: Genital Surgeries and Tracking Ethical Reform in Late-20th Century Medical Practice,” American Association for the History of Medicine Ann Arbor 2.0 Conference Panel 7 (virtual; December 9, 2020).
 
 “Quantifying Patients’ Affect: Decision Regret Scales and the Biomedicalization of Medical Harm,” Annual Meeting of the Society for Social Studies of Science (virtual; August 18, 2020).
