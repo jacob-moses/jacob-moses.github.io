@@ -5,7 +5,7 @@ layout: teaching
 # Jacob D. Moses
 **Teaching**
 
-![Photo of Jacob Moses leading a session at a teaching and learning conference at Harvard University.][image-1] I have taught students in introductory survey courses in the history of science, general education courses on medical ethics and the history of medicine, and advanced seminars on the cultural history of stigma in medicine. I have mentored students through intensive research tutorials on historical methods and advised several senior thesis projects. I have also taught medical students in courses on social medicine.
+![Photo of Jacob Moses leading a session at a teaching and learning conference at Harvard University.][image-1] I have taught students in introductory survey courses in the history of medicine, history of science, general education courses on medical ethics and medical history, and advanced seminars on the cultural history of stigma in medicine. I have mentored students through intensive research tutorials on historical methods and advised several senior thesis projects. At the Johns Hopkins School of Medicine, I have led courses in the history of medicine, supervised masters-level research projects, and taught medical students in courses on social medicine.
 
 I am interested in seeking out innovative methods of teaching and assessing learning. I was an inaugural pedagogy fellow at the [Edmond J. Safra Center of Ethics at Harvard University][1], where I focused on project-based learning and syllabus design. I have taught in flipped-classroom models and co-designed workshop courses centered on the development of student projects.
 
