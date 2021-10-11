@@ -9,7 +9,7 @@ layout: cv
 **Johns Hopkins University**, Baltimore, MD \	Sept. 2020–present
 
 Postdoctoral Fellow, Institute of the History of Medicine and  
-Center for Medical Humanities & Social Medicine, Johns Hopkins School of Medicine 
+Center for Medical Humanities & Social Medicine, Johns Hopkins School of Medicine, Supervisor: Jeremy A. Greene
 
 ### Education
 **Harvard University**, Cambridge, MA \	Nov. 2020
@@ -44,7 +44,7 @@ Research Assistant \	2007–09
 
 ### Publications
 ::: {custom-style=Publications}
-**Accepted for publication:** A. Arnold-Forster, **J. Moses**, and S. Schotland, “Wounded Healers and the Politics of Wellbeing: Healthcare Practitioners’ Emotions in 20th Century Anglo-America,” introdcution to special issue of _Journal of The History of Medicine and Allied Sciences_.
+**Accepted for publication:** A. Arnold-Forster, **J. Moses**, and S. Schotland, “Wounded Healers and the Politics of Wellbeing: Healthcare Practitioners’ Emotions in 20th Century Anglo-America,” introduction to special issue of _Journal of The History of Medicine and Allied Sciences_.
 
 K. Saha, J. B. Hurlbut, S. Jasanoff, A. Ahmed, A. Appiah, F. Baylis, G. Bennett, G. Church, G. Cohen, G. Daley, K. Finneran, W. Hurlbut, R. Jaenisch, L. Lwoff, J. P. Kimes, P. Mills, **J. Moses**, B. S. Park, E. Parens, R. Salzman, A. Saxena, T. Simoncelli, O. C. Snead, K. S. Rajan, R. D. Truog, P. Williams, and C. Woopen, “Building Capacity for a Global Genome Editing Observatory: Institutional Design,” _Trends in Biotechnology_ 36, no. 8 (2018): 741-743.
 
@@ -116,6 +116,8 @@ Panelist and Discussion Leader, National Conference on Ethics in America (United
 
 ### Workshops Convened
 ::: {custom-style=Publications}
+“Trans/Medicine,” with Ketil Slagstad, Johns Hopkins Center for Medical Humanities and Social Medicine (Baltimore, MD; November 12, 2021).
+
 “Graduate Fellows Workshop,” Johns Hopkins Center for Medical Humanities and Social Medicine (Baltimore, MD; April 16, 2021).
 
 “What Should Democracies Know?,” with Gili Vidan, Harvard Program on Science, Technology & Society (Cambridge, MA; December 8, 2016).
@@ -150,15 +152,17 @@ Comment on “Politics and Ethics of  Translational Medicine” panel, Science a
 
 ##### Instructor
 
-\	Introduction to the History of Medicine, MA-level\	Fall 2021
+\	Introduction to the History of Medicine, MA-level Thematic Survey\	Fall 2021
 
-\	The History of Medicine in Place (with Graham Mooney), MA-level\	Spring 2021
+\	Introduction to Social Medicine (with Jeremy Greene, Graham Mooney, Carolyn Sufrin,), MD-level Selective\ Fall 2021
 
-\	Medical Humanities and Social Medicine in Practice (with Joseph Carrese, Jeremy Greene, Graham Mooney, Carolyn Sufrin, Gail Geller), MD-level \Spring 2021
+\	The History of Medicine in Place (with Graham Mooney), MA-level Research Seminar\	Spring 2021
+
+\	Medical Humanities and Social Medicine in Practice (with Joseph Carrese, Jeremy Greene, Graham Mooney, Carolyn Sufrin, Gail Geller), MD-level Elective \Spring 2021
 
 \	Healing Spaces: Historical Geographies of Medical Practice (with Graham Mooney), MA-level\	Fall 2020
 
-\	Introduction to Social Medicine (with Jeremy Greene, Graham Mooney, Carolyn Sufrin, Alexandre White), MD-level\ Fall 2020
+\	Introduction to Social Medicine (with Jeremy Greene, Graham Mooney, Carolyn Sufrin, Alexandre White), MD-level Selective\ Fall 2020
 
 
 ##### **Harvard College**, Cambridge, MA
