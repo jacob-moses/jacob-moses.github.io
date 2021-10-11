@@ -8,8 +8,12 @@ layout: cv
 ### Current Appointment
 **Johns Hopkins University**, Baltimore, MD \	Sept. 2020–present
 
-Postdoctoral Fellow, Institute of the History of Medicine and  
-Center for Medical Humanities & Social Medicine, Johns Hopkins School of Medicine, Supervisor: Jeremy A. Greene
+Postdoctoral Fellow  
+Institute of the History of Medicine  
+Center for Medical Humanities & Social Medicine  
+Johns Hopkins School of Medicine
+
+- Supervisor: Jeremy A. Greene
 
 ### Education
 **Harvard University**, Cambridge, MA \	Nov. 2020
@@ -152,17 +156,17 @@ Comment on “Politics and Ethics of  Translational Medicine” panel, Science a
 
 ##### Instructor
 
-\	Introduction to the History of Medicine, MA-level Thematic Survey\	Fall 2021
+\	Introduction to the History of Medicine; MA-level Thematic Survey\	Fall 2021
 
-\	Introduction to Social Medicine (with Jeremy Greene, Graham Mooney, Carolyn Sufrin,), MD-level Selective\ Fall 2021
+\	Introduction to Social Medicine, with Profs. Jeremy Greene, Graham Mooney, and Carolyn Sufrin; MD-level Selective \	Fall 2021
 
-\	The History of Medicine in Place (with Graham Mooney), MA-level Research Seminar\	Spring 2021
+\	The History of Medicine in Place, with Prof. Graham Mooney; MA-level Research Seminar \	Spring 2021
 
-\	Medical Humanities and Social Medicine in Practice (with Joseph Carrese, Jeremy Greene, Graham Mooney, Carolyn Sufrin, Gail Geller), MD-level Elective \Spring 2021
+\	Medical Humanities and Social Medicine in Practice, with Profs. Joseph Carrese, Jeremy Greene, Graham Mooney, Carolyn Sufrin, and Gail Geller; MD-level Elective \	Spring 2021
 
-\	Healing Spaces: Historical Geographies of Medical Practice (with Graham Mooney), MA-level\	Fall 2020
+\	Healing Spaces: Historical Geographies of Medical Practice, with Prof. Graham Mooney; MA-level Research Methods Course \	Fall 2020
 
-\	Introduction to Social Medicine (with Jeremy Greene, Graham Mooney, Carolyn Sufrin, Alexandre White), MD-level Selective\ Fall 2020
+\	Introduction to Social Medicine, with Profs. Jeremy Greene, Graham Mooney, Carolyn Sufrin, Alexandre White; MD-level Selective \	Fall 2020
 
 
 ##### **Harvard College**, Cambridge, MA
@@ -171,7 +175,7 @@ Comment on “Politics and Ethics of  Translational Medicine” panel, Science a
 
 \	Medical Ethics and History (Prof. David S. Jones)\	Fall 2019
 
-\	Sophomore Tutorial in History of Science (Prof. Anne Harrington)\	2017
+\	Sophomore Tutorial in History of Science (Prof. Anne Harrington)\	Spring 2017
 
 \	Medical Ethics and History (Prof. David S. Jones)\	Fall 2016
 
