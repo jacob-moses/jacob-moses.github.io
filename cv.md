@@ -41,9 +41,6 @@ New Media Director \	2009–13
 
 Research Assistant \	2007–09
 
-- Contributed to 12 multi-year interdisciplinary projects in bioethics funded by NIH, NSF, NEH and Ford, Sloan, Greenwall, Open Society, and other foundations
-- Led national and international initiatives in education and public outreach using broadcast and digital media, including as deputy project director for the NOVA documentary, _Cracking Your Genetic Code_
-
 ### Publications
 ::: {custom-style=Publications}
 
