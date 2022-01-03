@@ -11,8 +11,7 @@ layout: cv
 Postdoctoral Fellow  
 Institute of the History of Medicine  
 Center for Medical Humanities & Social Medicine  
-Johns Hopkins School of Medicine  
-Supervisor: Jeremy A. Greene
+Johns Hopkins School of Medicine
 
 ### Education
 **Harvard University**, Cambridge, MA \	Nov. 2020
