@@ -44,7 +44,7 @@ Research Assistant \	2007–09
 ### Publications
 ::: {custom-style=Publications}
 
-A. Arnold-Forster, **J. Moses**, and S. Schotland, “Obstacles to Physicians’ Emotional Health — Lessons from History,” _New England Journal of Medicine_ 386, no. 1 (2022).
+A. Arnold-Forster, **J. Moses**, and S. Schotland, “Obstacles to Physicians’ Emotional Health — Lessons from History,” _New England Journal of Medicine_ 386, no. 1 (2022): 4-7.
 
 **Accepted for publication:** A. Arnold-Forster, **J. Moses**, and S. Schotland, “Wounded Healers and the Politics of Wellbeing: Healthcare Practitioners’ Emotions in 20th Century Anglo-America,” introduction to special issue of _Journal of The History of Medicine and Allied Sciences_.
 
@@ -78,6 +78,7 @@ N. Berlinger and **J. Moses**, The Five People You Meet in a Pandemic and What T
 :::
 ### Conference Presentations
 ::: {custom-style=Publications}
+“Historicizing Practitioners’ Emotions in the History of Medicine,” co-organizer with A. Arnold-Forster, Annual Meeting of the American Association for the History of Medicine, (Saratoga Springs, New York; April 22, 2022).
 
 “Selective Affinities: Reflections on Teaching STS in a Medical School,” Speaker on STS Pedagogy Panel, Science and Democracy Network, 2021 Annual Meeting, (virtual; June 25, 2021). 
 
@@ -85,13 +86,13 @@ N. Berlinger and **J. Moses**, The Five People You Meet in a Pandemic and What T
 
 “Quantifying Patients’ Affect: Decision Regret Scales and the Biomedicalization of Medical Harm,” Annual Meeting of the Society for Social Studies of Science (virtual; August 18, 2020).
 
-“Affect and Sensory Relation in the History of Medicine,” panel accepted at American Association for the History of Medicine Annual Meeting\* (Ann Arbor, MI; May 2020). _\* conference canceled due to COVID-19_
+“Affect and Sensory Relation in the History of Medicine,” panel accepted at Annual Meeting of the American Association for the History of Medicine\* (Ann Arbor, MI; May 2020). _\* conference canceled due to COVID-19_
 
 “Remaking the Regretful Agent: Cancer Surgery, Medical Harm, and the Role of Affect in Therapeutic Reversals,” STS Circle (Cambridge, MA; February 24, 2020).
 
 “Regret in Anticipation: Prostate-Specific Antigen Screening and the Coproduction of Future Bodies and Future Harms,” Annual Meeting of the Society for Social Studies of Science (New Orleans, LA; September 7, 2019).
 
-“Radical Regrets: Cancer Surgery, Prostate-Specific Antigen Testing, and the Role of Affect in Therapeutic Reversals,” presentation at American Association for the History of Medicine Annual Meeting (Los Angeles, CA; May 11, 2018).
+“Radical Regrets: Cancer Surgery, Prostate-Specific Antigen Testing, and the Role of Affect in Therapeutic Reversals,” presentation at Annual Meeting of the American Association for the History of Medicine (Los Angeles, CA; May 11, 2018).
 
 “Remorse Without Regret: Experimentalism, Consent, Apology, and the Affective Economies of Biomedicine,” presentation at Colloquium on the History of Psychiatry & Medicine, Department of Postgraduate and Continuing Education, McLean Hospital and Center for the History of Medicine, Francis A. Countway Library of Medicine (Boston, MA; October 15, 2015).
 
@@ -118,6 +119,8 @@ Panelist and Discussion Leader, National Conference on Ethics in America (United
 
 ### Workshops Convened
 ::: {custom-style=Publications}
+“Graduate Fellows Workshop,” Johns Hopkins Center for Medical Humanities and Social Medicine (Baltimore, MD; April 1, 2022).
+
 “Trans/Medicine,” with Ketil Slagstad, Johns Hopkins Center for Medical Humanities and Social Medicine (Baltimore, MD; November 12, 2021).
 
 “Graduate Fellows Workshop,” Johns Hopkins Center for Medical Humanities and Social Medicine (Baltimore, MD; April 16, 2021).
@@ -127,6 +130,8 @@ Panelist and Discussion Leader, National Conference on Ethics in America (United
 
 ### Workshop Respondent
 ::: {custom-style=Publications}
+Presenter with Theo Schall, “Cis and Trans Gender Affirming Care,” Berman Institute Research Retreat (Johns Hopkins University; April 27, 2022).
+
 Comment on Louis Gerdelan, “Charting the History of Misfortune: Early Disaster Collecting in the Seventeenth-Century,” Safra Graduate Research Seminar (Harvard University; April 23, 2019).
 
 Comment on Mark Budolfson, “Methods for Quantifying Animal Wellbeing and Estimating Optimal Tradeoffs against Human Wellbeing,” Safra Faculty Seminar (Harvard University; March 12, 2019).
@@ -145,6 +150,8 @@ Comment on “Politics and Ethics of  Translational Medicine” panel, Science a
 :::
 
 ### Public Media
+
+When Doctors Cite 'Regret' to Deny Care, Who Is Really Protected?, interview with Eleanor Cummins, WIRED (March 24, 2022).
 
 “Progress, What’s It Good For?,” interview with Kieran Fitzpatrick, Body Politics: The Podcast Where History, Medicine, and Society Collide (April 23, 2021). 
 
@@ -246,13 +253,7 @@ TEDMed Front-Line Scholarship, Washington, D.C.\	2012
 Early-Career Scholar Grant, American Society for Bioethics and the Humanities\	2008
 
 ### References
-::: {custom-style=References}
-David S. Jones, A. Bernard Ackerman Professor of the Culture of Medicine, Faculty of Arts and Sciences and the Faculty of Medicine, Harvard University
-
-Allan M. Brandt, Amalie Moses Kass Professor of the History of Medicine, Professor of the History of Science, Department of the History of Science, Department of Global Health and Social Medicine, Harvard University
-
-Sheila S. Jasanoff, Pforzheimer Professor of Science and Technology Studies, Harvard University
-:::
+Available upon request.
 
 [1]:	mailto:jmoses16@jhu.edu
 [2]:	http://jdmoses.com
