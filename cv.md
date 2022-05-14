@@ -76,8 +76,10 @@ N. Berlinger and **J. Moses**, “Pandemic Flu Planning in the Community: What C
 
 N. Berlinger and **J. Moses**, The Five People You Meet in a Pandemic and What They Need from You Today (Garrison, NY: The Hastings Center, 2007). (Also included in University of Minnesota project “Pandemic Practices: Pandemic Preparedness Tools.”)
 :::
-### Conference Presentations
+### Conference Presentations and Invited Talks
 ::: {custom-style=Publications}
+“Access and Authority in Science Research,” with Josh Lupkin (Technológico de Monterrey, Campus Ciudad de México, Departamento de Ciencias, virtual; May 13, 2022).
+
 “Historicizing Practitioners’ Emotions in the History of Medicine,” co-organizer with A. Arnold-Forster, Annual Meeting of the American Association for the History of Medicine, (Saratoga Springs, New York; April 22, 2022).
 
 “Selective Affinities: Reflections on Teaching STS in a Medical School,” Speaker on STS Pedagogy Panel, Science and Democracy Network, 2021 Annual Meeting, (virtual; June 25, 2021). 
