@@ -162,6 +162,9 @@ When Doctors Cite 'Regret' to Deny Care, Who Is Really Protected?, interview wit
 ##### **Johns Hopkins University**, Baltimore, MD
 
 ##### Instructor
+\	History of Medicine Research Practicum, with Prof. Graham Mooney; MA-level Research Practicum \	Spring 2022
+
+\	Medical Humanities and Social Medicine in Practice, with Profs. Joseph Carrese, Jeremy Greene, Graham Mooney, Carolyn Sufrin, and Gail Geller; MD-level Elective \	Spring 2022
 
 \	Introduction to the History of Medicine; MA-level Thematic Survey\	Fall 2021
 
