@@ -253,10 +253,9 @@ Sosland Family Graduate Fellowship, Harvard University\	2014–15
 
 Summer School Tuition Fellowship (German Language Instruction), Harvard University\	2014
 
-TEDMed Front-Line Scholarship, Washington, D.C.\	2012
+| 2012 | TEDMed Front-Line Scholarship, Washington, D.C. |
 
-###### 2008
-Early-Career Scholar Grant, American Society for Bioethics and the Humanities
+| 2008 | Early-Career Scholar Grant, American Society for Bioethics and the Humanities |
 
 ### References
 Available upon request.
