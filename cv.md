@@ -14,6 +14,7 @@ Center for Medical Humanities & Social Medicine
 Johns Hopkins School of Medicine
 
 ### Education
+
 2020 | **Harvard University**, Cambridge, MA \	Nov. 2020
 **Ph.D.**, History of Science  
 Secondary Graduate Field in Science, Technology, and Society
@@ -30,47 +31,33 @@ Secondary Graduate Field in Science, Technology, and Society
 2015–17 | Research Fellow in Program on Science, Technology, and Society, Harvard Kennedy School
 
 ### Professional Experience
-**The Hastings Center**, Garrison, NY
-2009–13 | New Media Director
-2007-09 | Research Assistant
+
+2009–13 | New Media Director, The Hastings Center, Garrison, NY
+2007-09 | Research Assistant, The Hastings Center, Garrison, NY
 
 ### Publications
 ::: {custom-style=Publications}
-
-**Accepted for publication:** A. Arnold-Forster, **J. Moses**, and S. Schotland, “Wounded Healers and the Politics of Wellbeing: Healthcare Practitioners’ Emotions in 20th Century Anglo-America,” introduction to special issue of _Journal of The History of Medicine and Allied Sciences_.
-
+Accepted | A. Arnold-Forster, **J. Moses**, and S. Schotland, “Wounded Healers and the Politics of Wellbeing: Healthcare Practitioners’ Emotions in 20th Century Anglo-America,” introduction to special issue of _Journal of The History of Medicine and Allied Sciences_.
 2022 | A. Arnold-Forster, **J. Moses**, and S. Schotland, “Obstacles to Physicians’ Emotional Health — Lessons from History,” _New England Journal of Medicine_ 386, no. 1 (2022): 4-7.
-
 2018 | K. Saha, J. B. Hurlbut, S. Jasanoff, A. Ahmed, A. Appiah, F. Baylis, G. Bennett, G. Church, G. Cohen, G. Daley, K. Finneran, W. Hurlbut, R. Jaenisch, L. Lwoff, J. P. Kimes, P. Mills, **J. Moses**, B. S. Park, E. Parens, R. Salzman, A. Saxena, T. Simoncelli, O. C. Snead, K. S. Rajan, R. D. Truog, P. Williams, and C. Woopen, “Building Capacity for a Global Genome Editing Observatory: Institutional Design,” _Trends in Biotechnology_ 36, no. 8 (2018): 741-743.
-
 2015 | **J. Moses**, N. Berlinger, M. C. Dunn, M. K. Gusmano, and J. J. Chin, “Bioethics Casebook 2.0: Using Web-Based Design and Tools to Promote Ethical Reflection and Practice in Health Care,” _Hastings Center Report_ 45, no. 6 (2015).
-
 2014 | **J. Moses**, “Bioethics Education: IV. Public Education” entry in _Encyclopedia of Bioethics_, 4th Edition, ed. B. Jennings, L. Eckenwiler, G. Kaebnick, B. Koenig, S. Krimsky, S. R. Latham, M. R. Mercurio. (New York: Macmillan, 2014).
-
 2012 | M. S. Race, **J. Moses**, C. McKay, and K. J. Venkateswaran, “Synthetic Biology in Space: Considering the Broad Societal and Ethical Implications,” _International Journal of Astrobiology_ 11 (2012): 133–139.
-
 2011 | **J. Moses**, “The 1.5 Cultures Problem,” _Hastings Center Report_ 41, no. 1 (2011): inside cover.
-
 2009 | E. Parens, J. Johnston, and **J. Moses**, “Do We Need ‘Synthetic Bioethics’?” _Science_ 321 (2008): 1449 and letter in _Science_ 323 (2009): 339.
-
 2009 | E. Parens, J. Johnston, and **J. Moses**, Ethical Issues in Synthetic Biology: An Overview of the Debates (Washington, D.C.: Woodrow Wilson International Center for Scholars, 2009): 1–32.
-
 2009 | **J. Moses**, “Are Parents Driven to Design Their Babies?” BioethicsForum.org, February 11, 2009. 
-
 2009 | **J. Moses**, “A Liberating Value to Biometric Technologies? A Review of Mordini and Massari’s ‘Body, Biometrics, and Identity,’” _Dialogue_ 2, no. 5 (2009): 1–3.
-
 2009 | **J. Moses**, “From Pallets to People: RFID and Technology Design,” _Dialogue_ 2, no. 1 (2009): 3–6.
-
 2009 | K. Maschke and **J. Moses**, “Background on Privacy as Contextual Integrity,” working paper for EU-funded Homeland Security, Biometric Identification & Personal Detection Ethics (HIDE) project policy forum, Czech Republic, June 5–6, 2009.
-
 2008 | **J. Moses**, “A Fair Trade? Canadian Ethics Commission Helps Recast the ‘Privacy vs. Security’ Dilemma,” _Dialogue_ 1, no. 2 (2008): 3–6.
-
 2008 | N. Berlinger and **J. Moses**, “Pandemic Flu Planning in the Community: What Can Clinical Ethicists Bring to the Public Health Table?” _Cambridge Quarterly of Healthcare Ethics_ 17, no. 4 (2008): 268–70.
-
 2007 | N. Berlinger and **J. Moses**, The Five People You Meet in a Pandemic and What They Need from You Today (Garrison, NY: The Hastings Center, 2007). (Also included in University of Minnesota project “Pandemic Practices: Pandemic Preparedness Tools.”)
+
 :::
 ### Conference Presentations and Invited Talks
 ::: {custom-style=Publications}
+
 2022 | “Access and Authority in Science Research,” with Josh Lupkin (Technológico de Monterrey, Campus Ciudad de México, Departamento de Ciencias, virtual; May 13).
 2022 | Presenter with Theo Schall, “Cis and Trans Gender Affirming Care,” Berman Institute Research Retreat (Johns Hopkins University; April 27).
 2022 | “Historicizing Practitioners’ Emotions in the History of Medicine,” co-organizer with A. Arnold-Forster, Annual Meeting of the American Association for the History of Medicine, (Saratoga Springs, New York; April 22).
@@ -92,21 +79,22 @@ Secondary Graduate Field in Science, Technology, and Society
 2008 | “Synthesizing New Life: Challenges for Bioethics in Synthetic Biology,” American Society for Bioethics and the Humanities (Cleveland, OH; October 24).
 2008 | “Synthesizing New Science: Public Engagement and the Regulatory Debate in Synthetic Biology,” National Undergraduate Bioethics Conference (Union College, Schenectady, NY; April 25).
 2008 | “Making Ethical Decisions During a Pandemic: Three Duties and Five People You Need to Know,” with Nancy Berlinger, Public Health Preparedness Summit (Atlanta, GA; February 22, 2008); Association for Practical and Professional Ethics (San Antonio, TX; February 23).
+
 :::
 
 ### Workshops Convened
 ::: {custom-style=Publications}
+
 2022 | “Graduate Fellows Workshop,” Johns Hopkins Center for Medical Humanities and Social Medicine (Baltimore, MD; April 1).
-
 2021 | “Trans/Medicine,” with Ketil Slagstad, Johns Hopkins Center for Medical Humanities and Social Medicine (Baltimore, MD; November 12).
-
 2021 | “Graduate Fellows Workshop,” Johns Hopkins Center for Medical Humanities and Social Medicine (Baltimore, MD; April 16).
-
 2016 | “What Should Democracies Know?,” with Gili Vidan, Harvard Program on Science, Technology & Society (Cambridge, MA; December 8).
+
 :::
 
 ### Workshop Respondent
 ::: {custom-style=Publications}
+
 2019 | Comment on Louis Gerdelan, “Charting the History of Misfortune: Early Disaster Collecting in the Seventeenth-Century,” Safra Graduate Research Seminar (Harvard University; April 23).
 2019 | Comment on Mark Budolfson, “Methods for Quantifying Animal Wellbeing and Estimating Optimal Tradeoffs against Human Wellbeing,” Safra Faculty Seminar (Harvard University; March 12).
 2018 | Comment on Abbie Modaff, “Black Truth and Black Beauty: Alain Locke on the Force of Authentic Expression” 20th Century US History Workshop (Harvard University; October 24).
@@ -115,6 +103,7 @@ Secondary Graduate Field in Science, Technology, and Society
 2017 | Comment on workshop, “Editorial Aspirations: Human Integrity at the Frontiers of Biology,” Program on Science, Technology, and Society (Harvard Kennedy School; April 28).
 2017 | Comment on Burcu Mutlu, “The Politics of Secrecy in ‘Tube-Baby Tourism’ from Turkey to Northern Cyprus,” Science, Religion, and Culture Colloquium (Harvard University; February 23).
 2015 | Comment on “Politics and Ethics of  Translational Medicine” panel, Science and Democracy Network 14th Annual Meeting (Cambridge, MA; June 26).
+
 :::
 
 ### Public Media
@@ -127,6 +116,7 @@ Secondary Graduate Field in Science, Technology, and Society
 ##### **Johns Hopkins University**, Baltimore, MD
 
 ##### Instructor
+
 Spring 2022 | History of Medicine Research Practicum, with Prof. Graham Mooney; MA-level Research Practicum
 Spring 2022 | Medical Humanities and Social Medicine in Practice, with Profs. Jeremy Greene, Graham Mooney, Carolyn Sufrin, and Gail Geller; MD-level Elective
 Fall 2021 | Introduction to the History of Medicine; MA-level Thematic Survey
@@ -158,6 +148,7 @@ Fall 2015 | Knowing the World: An Introduction to the History of Science  (Prof.
 2018–19 | Maetal Haas-Kogan, “Voluntary Control and Coercive Choices: Sterilization Uses and Abuses in the US,  1962–1982”
 2017–18 | Sarah Murphy, “The Law and Birth Control Advocacy in Massachusetts, 1916–1972”
 2016–17 | Hamidah Mahmud, “Human Representation and Misrepresentation at the Chicago World Fair of 1893”
+
 :::
 
 ### Teaching Awards
@@ -181,7 +172,8 @@ Awarded 6 Certificates of Distinction in Teaching from the Bok Center for Teachi
 2020 | Strominger Prize Fellowship, Department of History of Science, Harvard University
 2019 | Strominger Prize Fellowship, Department of History of Science, Harvard University
 2018 | Strominger Prize Fellowship, Department of History of Science, Harvard University
-2018 | Graduate Education Beyond the Classroom Trip to Ladakh, India, Dept. History of Science2018 | American Association for the History of Medicine/NSF Travel Grant
+2018 | Graduate Education Beyond the Classroom Trip to Ladakh, India, Dept. History of Science
+2018 | American Association for the History of Medicine/NSF Travel Grant
 2016 | Chemical Heritage Foundation Travel Grant, Philadelphia, PA
 2015 | Received “Excellent” Report on General Examination
 2014–15 | Sosland Family Graduate Fellowship, Harvard University
