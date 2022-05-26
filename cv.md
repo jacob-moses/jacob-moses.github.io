@@ -63,7 +63,7 @@ Accepted | A. Arnold-Forster, **J. Moses**, and S. Schotland, “Wounded Healers
 ::: {custom-style=Publications}
 
 2022 | “Access and Authority in Science Research,” with Josh Lupkin (Technológico de Monterrey, Campus Ciudad de México, Departamento de Ciencias, virtual; May 13).
-2022 | Presenter with Theo Schall, “Cis and Trans Gender Affirming Care,” Berman Institute Research Retreat (Johns Hopkins University; April 27).
+2022 | “Cis and Trans Gender Affirming Care,” with Theo Schall, Berman Institute Research Retreat (Johns Hopkins University; April 27).
 2022 | “Historicizing Practitioners’ Emotions in the History of Medicine,” co-organizer with A. Arnold-Forster, Annual Meeting of the American Association for the History of Medicine, (Saratoga Springs, New York; April 22).
 2021 | “Selective Affinities: Reflections on Teaching STS in a Medical School,” Speaker on STS Pedagogy Panel, Science and Democracy Network, 2021 Annual Meeting, (virtual; June 25). 
 2020 | “Affect in Retrospect: Genital Surgeries and Tracking Ethical Reform in Late-20th Century Medical Practice,” American Association for the History of Medicine Ann Arbor 2.0 Conference Panel 7 (virtual; December 9).
