@@ -68,7 +68,7 @@ Accepted | A. Arnold-Forster, **J. Moses**, and S. Schotland, “Wounded Healers
 2021 | “Selective Affinities: Reflections on Teaching STS in a Medical School,” Speaker on STS Pedagogy Panel, Science and Democracy Network, 2021 Annual Meeting, (virtual; June 25). 
 2020 | “Affect in Retrospect: Genital Surgeries and Tracking Ethical Reform in Late-20th Century Medical Practice,” American Association for the History of Medicine Ann Arbor 2.0 Conference Panel 7 (virtual; December 9).
 2020 | “Quantifying Patients’ Affect: Decision Regret Scales and the Biomedicalization of Medical Harm,” Annual Meeting of the Society for Social Studies of Science (virtual; August 18).
-2020 | “Affect and Sensory Relation in the History of Medicine,” panel accepted at Annual Meeting of the American Association for the History of Medicine\* (Ann Arbor, MI; May). _\* conference canceled due to COVID-19_
+2020 | “Affect and Sensory Relation in the History of Medicine,” panel accepted at Annual Meeting of the American Association for the History of Medicine* (Ann Arbor, MI; May). _\* conference canceled due to COVID-19_
 2020 | “Remaking the Regretful Agent: Cancer Surgery, Medical Harm, and the Role of Affect in Therapeutic Reversals,” STS Circle (Cambridge, MA; February 24).
 2019 | “Regret in Anticipation: Prostate-Specific Antigen Screening and the Coproduction of Future Bodies and Future Harms,” Annual Meeting of the Society for Social Studies of Science (New Orleans, LA; September 7).
 2018 | “Radical Regrets: Cancer Surgery, Prostate-Specific Antigen Testing, and the Role of Affect in Therapeutic Reversals,” presentation at Annual Meeting of the American Association for the History of Medicine (Los Angeles, CA; May 11).
@@ -135,7 +135,7 @@ Fall 2020 | Introduction to Social Medicine, with Profs. Jeremy Greene, Graham M
 
 ##### Head Teaching Fellow
 
-Fall 2019 | Medical Ethics and History (Prof. David S. Jones)\	
+Fall 2019 | Medical Ethics and History (Prof. David S. Jones)
 Spring 2017 | Sophomore Tutorial in History of Science (Prof. Anne Harrington)
 Fall 2016 | Medical Ethics and History (Prof. David S. Jones)
 
@@ -144,7 +144,7 @@ Fall 2016 | Medical Ethics and History (Prof. David S. Jones)
 Spring 2018 | The History and Culture of Stigma (Prof. Allan Brandt) 
 Spring 2017 | The History and Culture of Stigma (Prof. Allan Brandt)
 Spring 2016 | Sophomore Tutorial in History of Science (Prof. Anne Harrington)
-Fall 2015 | Knowing the World: An Introduction to the History of Science  (Prof. Alex Csiszar)\	
+Fall 2015 | Knowing the World: An Introduction to the History of Science  (Prof. Alex Csiszar)
 
 ##### Undergraduate Thesis Advisor
 

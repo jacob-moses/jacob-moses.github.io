@@ -109,6 +109,10 @@ background: -webkit-linear-gradient(#803742, #654a4e);
 	border: none;
 }
 
+.markdown-body table th, .markdown-body table td {
+	padding: 3px 0;
+}
+
 td {
 	min-width: 8em;
 	vertical-align: top;
