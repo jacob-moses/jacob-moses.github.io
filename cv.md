@@ -30,7 +30,7 @@ layout: cv
 
 ### Professional Experience
 
- | **The Hastings Center**, Garrison, NY  
+#### The Hastings Center, Garrison, NY
 2009–13 | New Media Director
 2007-09 | Research Assistant
 
