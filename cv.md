@@ -7,8 +7,7 @@ layout: cv
 
 ### Current Appointment
 
-2020-present | Johns Hopkins University, Baltimore, MD
- | Postdoctoral Fellow, Institute of the History of Medicine, Center for Medical Humanities & Social Medicine, Johns Hopkins School of Medicine
+2020- | Johns Hopkins University, Baltimore, MD \<br /\> Postdoctoral Fellow \<br /\> Institute of the History of Medicine \<br /\> Center for Medical Humanities & Social Medicine \<br /\> Johns Hopkins School of Medicine
 
 ### Education
 
