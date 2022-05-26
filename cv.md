@@ -8,15 +8,15 @@ layout: cv
 ### Current Appointment
 
 2020-present | Johns Hopkins University, Baltimore, MD
- | Postdoctoral Fellow  
-Institute of the History of Medicine  
-Center for Medical Humanities & Social Medicine  
-Johns Hopkins School of Medicine
+> Postdoctoral Fellow  
+> Institute of the History of Medicine  
+> Center for Medical Humanities & Social Medicine  
+> Johns Hopkins School of Medicine
 
 ### Education
 
 2020 | Harvard University, Cambridge, MA
- | Ph.D., History of Science
+Ph.D., History of Science
 - Secondary Graduate Field in Science, Technology, and Society
 - Dissertation: “Medical Regret without Remorse: A Moral History of Harm, Responsibility, and Emotion in American Surgery since 1945”
 - Committee: David S. Jones (chair), Allan M. Brandt, Sheila S. Jasanoff
