@@ -99,6 +99,17 @@ background: -webkit-linear-gradient(#803742, #654a4e);
 	opacity: 1;
 }
 
+//style table
+.markdown-body table tr:nth-child(2n), .markdown-body table th, .markdown-body table td {
+	background: none;
+	border: none;
+}
+
+td {
+	min-width: 6em;
+	vertical-align: top;
+}
+
 // Hide Markdown style code for Word
 
 .markdown-body code {
