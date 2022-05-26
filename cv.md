@@ -263,12 +263,12 @@ Summer School Tuition Fellowship (German Language Instruction), Harvard Universi
 : Early-Career Scholar Grant, American Society for Bioethics and the Humanities
 
 `2012`
-: TEDMed Front-Line Scholarship, Washington, D.C.
+TEDMed Front-Line Scholarship, Washington, D.C.
 
 ```html
 2012
 ```
-: TEDMed Front-Line Scholarship, Washington, D.C.
+TEDMed Front-Line Scholarship, Washington, D.C.
 
 ### References
 Available upon request.
