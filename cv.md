@@ -113,7 +113,7 @@ Accepted | A. Arnold-Forster, **J. Moses**, and S. Schotland, “Wounded Healers
 
 ### Teaching Experience
 ::: {custom-style=Teaching}
-##### **Johns Hopkins University**, Baltimore, MD
+#### Johns Hopkins University, Baltimore, MD
 
 ##### Instructor
 
@@ -127,7 +127,7 @@ Fall 2020 | Healing Spaces: Historical Geographies of Medical Practice, with Pro
 Fall 2020 | Introduction to Social Medicine, with Profs. Jeremy Greene, Graham Mooney, Carolyn Sufrin, Alexandre White; MD-level Selective
 
 
-##### **Harvard College**, Cambridge, MA
+#### Harvard College, Cambridge, MA
 
 ##### Head Teaching Fellow
 
