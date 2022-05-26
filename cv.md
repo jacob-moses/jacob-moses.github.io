@@ -9,7 +9,7 @@ layout: cv
 
 #### Johns Hopkins University, Baltimore, MD
 
-2020- | Postdoctoral Fellow
+2020– | Postdoctoral Fellow
 | Institute of the History of Medicine, Center for Medical Humanities & Social Medicine, Johns Hopkins School of Medicine
 
 ### Education
@@ -36,7 +36,7 @@ layout: cv
 #### The Hastings Center, Garrison, NY
 
 2009–13 | New Media Director
-2007-09 | Research Assistant
+2007–09 | Research Assistant
 
 ### Publications
 ::: {custom-style=Publications}
