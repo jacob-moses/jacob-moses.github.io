@@ -10,6 +10,7 @@ layout: cv
 ### Current Appointment
 
 #### Johns Hopkins University, Baltimore, MD
+
 |       |                                                                                                                                             |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2020– | Postdoctoral Fellow Institute of the History of Medicine, Center for Medical Humanities & Social Medicine, Johns Hopkins School of Medicine |
@@ -17,6 +18,7 @@ layout: cv
 ### Education
 
 #### Harvard University, Cambridge, MA
+
 |      |                                                                                                                                     |
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | 2020 | Ph.D., History of Science                                                                                                           |
@@ -25,11 +27,13 @@ layout: cv
 |      | Committee: David S. Jones (chair), Allan M. Brandt, Sheila S. Jasanoff                                                              |
 
 #### Vassar College, Poughkeepsie, NY
+
 |      |                                                                    |
 | ---- | ------------------------------------------------------------------ |
 | 2007 | A.B., with Departmental Honors in Science, Technology, and Society |
 
 ### Research Fellowships
+
 |         |                                                                                        |
 | ------- | -------------------------------------------------------------------------------------- |
 | 2018–19 | Graduate Fellow in Ethics, Edmond J. Safra Center for Ethics, Harvard University       |
@@ -39,6 +43,7 @@ layout: cv
 ### Professional Experience
 
 #### The Hastings Center, Garrison, NY
+
 |         |                    |
 | ------- | ------------------ |
 | 2009–13 | New Media Director |
@@ -46,6 +51,7 @@ layout: cv
 
 ### Publications
 ::: {custom-style=Publications}
+
 |          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Accepted | A. Arnold-Forster, **J. Moses**, and S. Schotland, “Wounded Healers and the Politics of Wellbeing: Healthcare Practitioners’ Emotions in 20th Century Anglo-America,” introduction to special issue of _Journal of The History of Medicine and Allied Sciences_.                                                                                                                                                                                                             |
@@ -68,6 +74,7 @@ layout: cv
 :::
 ### Conference Presentations and Invited Talks
 ::: {custom-style=Publications}
+
 |      |                                                                                                                                                                                                                                                                                                                                                             |
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2022 | “Access and Authority in Science Research,” with Josh Lupkin (Technológico de Monterrey, Campus Ciudad de México, Departamento de Ciencias, virtual; May 13).                                                                                                                                                                                              |
@@ -96,6 +103,7 @@ layout: cv
 
 ### Workshops Convened
 ::: {custom-style=Publications}
+
 |      |                                                                                                                                      |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | 2022 | “Graduate Fellows Workshop,” Johns Hopkins Center for Medical Humanities and Social Medicine (Baltimore, MD; April 1).               |
@@ -107,6 +115,7 @@ layout: cv
 
 ### Workshop Respondent
 ::: {custom-style=Publications}
+
 |      |                                                                                                                                                                                                           |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2019 | Comment on Louis Gerdelan, “Charting the History of Misfortune: Early Disaster Collecting in the Seventeenth-Century,” Safra Graduate Research Seminar (Harvard University; April 23).                    |
@@ -121,6 +130,7 @@ layout: cv
 :::
 
 ### Public Media
+
 |      |                                                                                                                                                         |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2022 | When Doctors Cite 'Regret' to Deny Care, Who Is Really Protected?, WIRED (March 24).                                                                    |
@@ -131,6 +141,7 @@ layout: cv
 #### Johns Hopkins University, Baltimore, MD
 
 ##### Instructor
+
 |      |                                                                                                                                                                  |
 | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2022 | History of Medicine Research Practicum, with Prof. Graham Mooney; MA-level Research Practicum                                                                    |
@@ -146,6 +157,7 @@ layout: cv
 #### Harvard College, Cambridge, MA
 
 ##### Head Teaching Fellow
+
 |      |                                                                  |
 | ---- | ---------------------------------------------------------------- |
 | 2019 | Medical Ethics and History (Prof. David S. Jones)                |
@@ -153,6 +165,7 @@ layout: cv
 | 2016 | Medical Ethics and History (Prof. David S. Jones)                |
 
 ##### Teaching Fellow
+
 |      |                                                                                    |
 | ---- | ---------------------------------------------------------------------------------- |
 | 2018 | The History and Culture of Stigma (Prof. Allan Brandt)                             |
@@ -161,6 +174,7 @@ layout: cv
 | 2015 | Knowing the World: An Introduction to the History of Science  (Prof. Alex Csiszar) |
 
 ##### Undergraduate Thesis Advisor
+
 |         |                                                                                                                             |
 | ------- | --------------------------------------------------------------------------------------------------------------------------- |
 | 2019–20 | Safa Salem, “Health as a Luxury: Historicizing the Effects of the Federal Poverty Level on Healthcare in the United States” |
@@ -175,6 +189,7 @@ layout: cv
 Awarded 6 Certificates of Distinction in Teaching from the Bok Center for Teaching and Learning, Harvard University: Fall 2015, Spring 2016, Spring 2017 (2), Fall 2018, Fall 2019
 
 ### Service to the Field
+
 |         |                                                                                          |
 | ------- | ---------------------------------------------------------------------------------------- |
 | 2021    | Peer Reviewer, _Hastings Center Report_                                                  |
