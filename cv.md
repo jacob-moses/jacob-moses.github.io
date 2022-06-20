@@ -123,7 +123,7 @@ layout: cv
 ### Public Media
 |      |                                                                                                                                                         |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022 | When Doctors Cite 'Regret' to Deny Care, Who Is Really Protected?, interview with Eleanor Cummins, WIRED (March 24).                                    |
+| 2022 | When Doctors Cite 'Regret' to Deny Care, Who Is Really Protected?, WIRED (March 24).                                                                    |
 | 2021 | “Progress, What’s It Good For?,” interview with Kieran Fitzpatrick, Body Politics: The Podcast Where History, Medicine, and Society Collide (April 23). |
 
 ### Teaching Experience
