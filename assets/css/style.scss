@@ -118,6 +118,10 @@ td {
 	vertical-align: top;
 }
 
+th {
+	display: none;
+}
+
 // Hide Markdown style code for Word
 
 .markdown-body code {
