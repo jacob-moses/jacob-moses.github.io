@@ -6,10 +6,8 @@ layout: home
 
 Email: [jdmoses@utmb.edu][1]
 
-Department of Bioethics & Health Humanities
-
-School of Public & Population Health
-
+Department of Bioethics & Health Humanities  
+School of Public & Population Health  
 University of Texas Medical Branch at Galveston
 
 
