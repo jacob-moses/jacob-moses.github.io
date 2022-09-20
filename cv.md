@@ -4,7 +4,7 @@ layout: cv
 --- 
 # Jacob D. Moses
 ::: {custom-style=Publications}
-#### [jmoses16@jhu.edu][1] • website: [jdmoses.com][2]
+#### [jdmoses@utmb.edu][1] • website: [jdmoses.com][2]
 :::
 
 ### Current Appointment
@@ -229,5 +229,5 @@ Awarded 6 Certificates of Distinction in Teaching from the Bok Center for Teachi
 ### References
 Available upon request.
 
-[1]:	mailto:jmoses16@jhu.edu
+[1]:	mailto:jdmoses@utmb.edu
 [2]:	http://jdmoses.com
