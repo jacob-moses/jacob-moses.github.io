@@ -16,13 +16,15 @@ layout: cv
 | 2022– | Assistant Professor, Department of Bioethics & Health Humanities, School of Public and Population Health                                     |                                                               
 |       | Faculty Member, Institute for Bioethics & Health Humanities                                                                                  |
 
-### Education
+### Postdoctoral Training
 
 #### Johns Hopkins University, Baltimore, MD
 
 |       |                                                                                                                                              |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2020–22 | Postdoctoral Fellow, Institute of the History of Medicine, Center for Medical Humanities & Social Medicine, Johns Hopkins School of Medicine |
+
+### Education
 
 #### Harvard University, Cambridge, MA
 
