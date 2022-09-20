@@ -4,6 +4,7 @@ layout: home
 ---
 # Jacob D. Moses  
 **History of Medicine, Public Health, and Biotechnology**
+
 **Assistant Professor, University of Texas Medical Branch**
 
 ![Photo of Jacob Moses outside in front of trees and a brick wall.][image-1] Jacob Moses's research and teaching centers on the intersection of the history of medicine and public health, bioethics, and science & technology studies. He studies biomedicine, public health, and biotechnology in the 20th and 21st centuries, with a particular focus on issues of ethics and governance. His ongoing research interests include the history of medicine and public health; science and technology studies; the history of emotions in science, technology, and medicine; medical decision-making; the history of surgery; gender, sexuality, and the body; and history of (and in) bioethics. He is currently an assistant professor in the Department of Bioethics & Health Humanities at the University of Texas Medical Branch at Galveston.
