@@ -15,7 +15,7 @@ He received his Ph.D. in [History of Science from Harvard University][3] (2020),
 
 Before pursuing his doctoral studies, he worked for several years at [ The Hastings Center][5] on interdisciplinary bioethics research and public outreach projects ranging from pandemic preparedness to the ethics of synthetic biology.
 
-For further details, [see my CV][6].
+For further details, please [see CV][6].
 
 [1]:	https://hopkinshistoryofmedicine.org
 [2]:	https://hopkinsmedicalhumanities.org
