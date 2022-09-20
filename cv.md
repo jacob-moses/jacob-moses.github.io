@@ -10,6 +10,7 @@ layout: cv
 ### Current Appointment
 
 #### University of Texas Medical Branch, Galveston, TX
+
 |       |                                                                                                                                              |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2022– | Assistant Professor, Department of Bioethics & Health Humanities, School of Public and Population Health                                     |
