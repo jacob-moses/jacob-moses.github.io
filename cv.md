@@ -8,13 +8,20 @@ layout: cv
 :::
 
 ### Current Appointment
+
+#### University of Texas Medical Branch, Galveston, TX
+|       |                                                                                                                                              |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022– | Assistant Professor, Department of Bioethics & Health Humanities, School of Public and Population Health
+|       | Faculty Member, Institute for Bioethics & Health Humanities
+
+### Education
+
 #### Johns Hopkins University, Baltimore, MD
 
 |       |                                                                                                                                              |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2020– | Postdoctoral Fellow, Institute of the History of Medicine, Center for Medical Humanities & Social Medicine, Johns Hopkins School of Medicine |
-
-### Education
+| 2020–22 | Postdoctoral Fellow, Institute of the History of Medicine, Center for Medical Humanities & Social Medicine, Johns Hopkins School of Medicine |
 
 #### Harvard University, Cambridge, MA
 
@@ -30,6 +37,7 @@ layout: cv
 |      |                                                                    |
 | ---- | ------------------------------------------------------------------ |
 | 2007 | A.B., with Departmental Honors in Science, Technology, and Society |
+
 
 ### Research Fellowships
 
