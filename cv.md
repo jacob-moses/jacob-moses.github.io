@@ -12,8 +12,8 @@ layout: cv
 #### University of Texas Medical Branch, Galveston, TX
 |       |                                                                                                                                              |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022– | Assistant Professor, Department of Bioethics & Health Humanities, School of Public and Population Health
-|       | Faculty Member, Institute for Bioethics & Health Humanities
+| 2022– | Assistant Professor, Department of Bioethics & Health Humanities, School of Public and Population Health                                     |
+|       | Faculty Member, Institute for Bioethics & Health Humanities                                                                                  |
 
 ### Education
 
