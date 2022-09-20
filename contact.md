@@ -4,11 +4,12 @@ layout: home
 ---
 # Jacob D. Moses
 
-Email: [jmoses16@jh.edu][1]
+Email: [jdmoses@utmb.edu][1]
 
-Department of the History of Medicine  
-Johns Hopkins University  
-1900 East Monument Street  
-Baltimore, MD 21205-2113
+Department of Bieothics & Health Humanities
+School of Public & Population Health
+University of Texas Medical Branch at Galveston
 
-[1]:	mailto:jmoses16@jh.edu
+Mailing address: 301 University Boulevard, Galveston, Texas 77555-1311
+
+[1]:	mailto:jdmoses@utmb.edu
