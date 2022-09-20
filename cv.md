@@ -13,8 +13,8 @@ layout: cv
 
 |       |                                                                                                                                              |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022– | Assistant Professor, Department of Bioethics & Health Humanities,  
-School of Public and Population Health                                     |
+| 2022– | Assistant Professor, Department of Bioethics & Health Humanities,                                                                            |
+|       | School of Public and Population Health                                                                                                       |
 |       | Faculty Member, Institute for Bioethics & Health Humanities                                                                                  |
 
 ### Education
