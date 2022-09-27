@@ -5,6 +5,7 @@ layout: home
 # Jacob D. Moses  
 
 ##### Historian of Medicine, Public Health, and Biotechnology
+##### Science, Technology & Society Researcher
 ##### Assistant Professor of Bioethics & Health Humanities
 ##### University of Texas Medical Branch
 
