@@ -5,12 +5,12 @@ layout: home
 # Jacob D. Moses  
 
 ##### Historian of Medicine, Public Health, and Biotechnology
-##### Science, Technology & Society Researcher
+
 
 ##### Assistant Professor of Bioethics & Health Humanities
 ##### University of Texas Medical Branch at Galveston
 
-![Photo of Jacob Moses outside in front of trees and a brick wall.][image-1] Jacob Moses's research and teaching centers on the intersection of the history of medicine and public health, bioethics, and science & technology studies. He studies biomedicine, public health, and biotechnology in the 20th and 21st centuries, with a particular focus on issues of ethics and governance. His ongoing research interests include the history of medicine and public health; science and technology studies; the history of emotions in science, technology, and medicine; medical decision-making; the history of surgery; gender, sexuality, and the body; and history of (and in) bioethics. He is currently an assistant professor in the Department of Bioethics & Health Humanities at the University of Texas Medical Branch at Galveston.
+![Photo of Jacob Moses outside in front of trees and a brick wall.][image-1] Jacob Moses's research and teaching centers on the intersection of the history of medicine and public health, bioethics, and science & technology studies (STS). He studies biomedicine, public health, and biotechnology in the 20th and 21st centuries, with a particular focus on issues of ethics and governance. His ongoing research interests include the history of medicine and public health; science and technology studies; the history of emotions in science, technology, and medicine; medical decision-making; the history of surgery; gender, sexuality, and the body; and history of (and in) bioethics. He is currently an assistant professor in the Department of Bioethics & Health Humanities at the University of Texas Medical Branch at Galveston.
 
 His current book project, _Medical Regret without Remorse_, traces the history of therapeutic reversals in surgical practice from the mid-20th century to the present. In this research, he seeks to illuminate bureaucratic and affective responses to medical harm and develop a new account of how affect plays a role both among patients, medical professionals, and public health officials in shaping the current regime of biomedicine.
 
