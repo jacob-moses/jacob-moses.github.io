@@ -11,17 +11,17 @@ layout: cv
 
 #### University of Texas Medical Branch, Galveston, TX
 
-|       |                                                                                                                                              |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022– | Assistant Professor, Department of Bioethics & Health Humanities, School of Public and Population Health                                     |                                                               
-|       | Faculty Member, Institute for Bioethics & Health Humanities                                                                                  |
+|       |                                                                                                          |
+| ----- | -------------------------------------------------------------------------------------------------------- |
+| 2022– | Assistant Professor, Department of Bioethics & Health Humanities, School of Public and Population Health |
+|       | Faculty Member, Institute for Bioethics & Health Humanities                                              |
 
 ### Postdoctoral Training
 
 #### Johns Hopkins University, Baltimore, MD
 
-|       |                                                                                                                                              |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+|         |                                                                                                                                              |
+| ------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2020–22 | Postdoctoral Fellow, Institute of the History of Medicine, Center for Medical Humanities & Social Medicine, Johns Hopkins School of Medicine |
 
 ### Education
@@ -59,6 +59,14 @@ layout: cv
 | 2009–13 | New Media Director |
 | 2007–09 | Research Assistant |
 
+### Research and Teaching Interests
+
+- history of biomedicine
+- biomedical ethics/bioethics
+- medical humanities and social medicine
+- history of emotions and affect
+- gender, sexuality, and the body
+
 ### Publications
 ::: {custom-style=Publications}
 
@@ -93,7 +101,7 @@ layout: cv
 | 2021 | “Selective Affinities: Reflections on Teaching STS in a Medical School,” Speaker on STS Pedagogy Panel, Science and Democracy Network, 2021 Annual Meeting, (virtual; June 25).                                                                                                                                                                             |
 | 2020 | “Affect in Retrospect: Genital Surgeries and Tracking Ethical Reform in Late-20th Century Medical Practice,” American Association for the History of Medicine Ann Arbor 2.0 Conference Panel 7 (virtual; December 9).                                                                                                                                       |
 | 2020 | “Quantifying Patients’ Affect: Decision Regret Scales and the Biomedicalization of Medical Harm,” Annual Meeting of the Society for Social Studies of Science (virtual; August 18).                                                                                                                                                                         |
-| 2020 | “Affect and Sensory Relation in the History of Medicine,” panel accepted at Annual Meeting of the American Association for the History of Medicine\\\\\\\* (Ann Arbor, MI; May). _\\\\\\\* conference canceled due to COVID-19_                                                                                                                             |
+| 2020 | “Affect and Sensory Relation in the History of Medicine,” panel accepted at Annual Meeting of the American Association for the History of Medicine\\\\\\\\\\\\\\\* (Ann Arbor, MI; May). _\\\\\\\\\\\\\\\* conference canceled due to COVID-19_                                                                                                             |
 | 2020 | “Remaking the Regretful Agent: Cancer Surgery, Medical Harm, and the Role of Affect in Therapeutic Reversals,” STS Circle (Cambridge, MA; February 24).                                                                                                                                                                                                     |
 | 2019 | “Regret in Anticipation: Prostate-Specific Antigen Screening and the Coproduction of Future Bodies and Future Harms,” Annual Meeting of the Society for Social Studies of Science (New Orleans, LA; September 7).                                                                                                                                           |
 | 2018 | “Radical Regrets: Cancer Surgery, Prostate-Specific Antigen Testing, and the Role of Affect in Therapeutic Reversals,” presentation at Annual Meeting of the American Association for the History of Medicine (Los Angeles, CA; May 11).                                                                                                                    |
