@@ -4,7 +4,7 @@ layout: home
 ---
 # Jacob D. Moses  
 
-##### Historian of Medicine, Public Health, and Biotechnology
+##### Historian of Medicine, Public Health, and Biotechnology &middot; STS
 
 
 ##### Assistant Professor of Bioethics & Health Humanities
