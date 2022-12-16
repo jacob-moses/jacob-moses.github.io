@@ -90,6 +90,12 @@ layout: cv
 | 2007     | N. Berlinger and **J. Moses**, The Five People You Meet in a Pandemic and What They Need from You Today (Garrison, NY: The Hastings Center, 2007). (Also included in University of Minnesota project “Pandemic Practices: Pandemic Preparedness Tools.”)                                                                                                                                                                                                                     |
 
 :::
+### Reviews
+::: {custom-style=Publications}
+| 2022     | Book Review: "**J. Moses** on Hodges and Paech and Bennett, 'Without Compassion, There Is No Healthcare: Leading with Care in a Technological Age,'" H-Sci-Med-Tech, H-Net Reviews, December, 2022. Available at https://www.h-net.org/reviews/showrev.php?id=57875.
+|
+
+:::
 ### Conference Presentations and Invited Talks
 ::: {custom-style=Publications}
 
