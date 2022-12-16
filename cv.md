@@ -92,6 +92,7 @@ layout: cv
 :::
 ### Reviews
 ::: {custom-style=Publications}
+
 | 2022     | Book Review: "**J. Moses** on Hodges and Paech and Bennett, 'Without Compassion, There Is No Healthcare: Leading with Care in a Technological Age,'" H-Sci-Med-Tech, H-Net Reviews, December, 2022. Available at https://www.h-net.org/reviews/showrev.php?id=57875.
 |
 
