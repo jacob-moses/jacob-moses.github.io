@@ -70,7 +70,7 @@ layout: cv
 ### Publications
 ::: {custom-style=Publications}
 
-|          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
 | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Accepted | A. Arnold-Forster, **J. Moses**, and S. Schotland, “Wounded Healers and the Politics of Wellbeing: Healthcare Practitioners’ Emotions in 20th Century Anglo-America,” introduction to special issue of _Journal of The History of Medicine and Allied Sciences_.                                                                                                                                                                                                             |
 | 2022     | A. Arnold-Forster, **J. Moses**, and S. Schotland, “Obstacles to Physicians’ Emotional Health — Lessons from History,” _New England Journal of Medicine_ 386, no. 1 (2022): 4-7.                                                                                                                                                                                                                                                                                             |
@@ -93,6 +93,7 @@ layout: cv
 ### Reviews
 ::: {custom-style=Publications}
 
+| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2022     | Book Review: "**J. Moses** on Hodges and Paech and Bennett, 'Without Compassion, There Is No Healthcare: Leading with Care in a Technological Age,'" H-Sci-Med-Tech, H-Net Reviews, December, 2022. Available at https://www.h-net.org/reviews/showrev.php?id=57875.
 |
 
