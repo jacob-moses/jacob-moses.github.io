@@ -2,7 +2,7 @@
 title: Teaching
 layout: teaching
 ---
-# Jacob D. Moses
+# Jacob D. Moses, Ph.D.
 **Teaching**
 
 ![Photo of Jacob Moses leading a session at a teaching and learning conference at Harvard University.][image-1] I have taught students in introductory survey courses in the history of medicine, history of science, general education courses on medical ethics and medical history, and advanced seminars on the cultural history of stigma in medicine. I have mentored students through intensive research tutorials on historical methods and advised several senior thesis projects. At the Johns Hopkins School of Medicine, I have led courses in the history of medicine, supervised masters-level research projects, and taught medical students in courses on social medicine.
