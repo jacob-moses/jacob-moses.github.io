@@ -2,7 +2,7 @@
 title: About
 layout: home
 ---
-# Jacob D. Moses  
+# Jacob D. Moses, Ph.D.  
 
 ##### Historian of Medicine, Public Health, and Biotechnology &middot; STS
 
