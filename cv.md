@@ -2,7 +2,7 @@
 title: CV
 layout: cv
 --- 
-# Jacob D. Moses
+# Jacob D. Moses, Ph.D.
 ::: {custom-style=Publications}
 #### [jdmoses@utmb.edu][1] • website: [jdmoses.com][2]
 :::
