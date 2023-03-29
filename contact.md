@@ -2,7 +2,7 @@
 title: Contact
 layout: home
 ---
-# Jacob D. Moses
+# Jacob D. Moses, Ph.D.
 
 Email: [jdmoses@utmb.edu][1]
 
