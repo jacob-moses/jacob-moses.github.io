@@ -18,6 +18,10 @@ He received his Ph.D. in [History of Science from Harvard University][3] (2020),
 
 Before pursuing his doctoral studies, he worked for several years at [ The Hastings Center][5] on interdisciplinary bioethics research and public outreach projects ranging from pandemic preparedness to the ethics of synthetic biology.
 
+###Recent Publications
+- May 2023: [Special issue of the Journal of the History of Medicine and Allied Sciences, "Healthcare Practitioners’ Emotions and the Politics of Well-Being in Twentieth Century Anglo-America"][7]
+- May 2023: [Perspective in Washington Post, "An AI Moratorium Probably Is Not the Answer"][8]
+
 For further details, please [see CV][6].
 
 [1]:	https://hopkinshistoryofmedicine.org
@@ -26,5 +30,7 @@ For further details, please [see CV][6].
 [4]:	http://sts.hks.harvard.edu
 [5]:	https://www.thehastingscenter.org
 [6]:	/cv/ "Curriculum Vitae"
+[7]:  https://academic.oup.com/jhmas/advance-article/doi/10.1093/jhmas/jrad023/7153063
+[8]:  https://www.washingtonpost.com/made-by-history/2023/05/08/artificial-intelligence-moratorium/
 
 [image-1]:	/assets/img/jacob-moses-20.jpg
