@@ -168,7 +168,9 @@ layout: cv
 
 |      |                                                                                                                                                         |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022 | When Doctors Cite 'Regret' to Deny Care, Who Is Really Protected?, WIRED (March 24).                                                                    |
+| 2023 | J. Moses and G. Vidan, "An AI Moratorium Probably Is Not the Answer," _Washington Post_ (May 8), https://www.washingtonpost.com/made-by-history/2023/05/08/artificial-intelligence-moratorium/. 
+
+| 2022 | "When Doctors Cite 'Regret' to Deny Care, Who Is Really Protected?," WIRED (March 24).                                                                    |
 | 2021 | “Progress, What’s It Good For?,” interview with Kieran Fitzpatrick, Body Politics: The Podcast Where History, Medicine, and Society Collide (April 23). |
 
 ### Teaching Experience
