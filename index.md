@@ -18,7 +18,7 @@ He received his Ph.D. in [History of Science from Harvard University][3] (2020),
 
 Before pursuing his doctoral studies, he worked for several years at [ The Hastings Center][5] on interdisciplinary bioethics research and public outreach projects ranging from pandemic preparedness to the ethics of synthetic biology.
 
-###Recent Publications
+### Recent Publications
 - May 2023: [Special issue of the Journal of the History of Medicine and Allied Sciences, "Healthcare Practitioners’ Emotions and the Politics of Well-Being in Twentieth Century Anglo-America"][7]
 - May 2023: [Perspective in Washington Post, "An AI Moratorium Probably Is Not the Answer"][8]
 
