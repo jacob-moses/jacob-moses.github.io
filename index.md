@@ -33,6 +33,6 @@ For further details, please [see CV][6].
 [6]:	/cv/ "Curriculum Vitae"
 [7]:  https://academic.oup.com/jhmas/advance-article/doi/10.1093/jhmas/jrad023/7153063
 [8]:  https://www.washingtonpost.com/made-by-history/2023/05/08/artificial-intelligence-moratorium/
-[9]:  https://onlinelibrary.wiley.com/doi/10.1002/hast.1486](https://onlinelibrary.wiley.com/share/author/SKVMKRT6FGGIRHTPUFPQ?target=10.1002/hast.1486
+[9]:  https://onlinelibrary.wiley.com/share/author/SKVMKRT6FGGIRHTPUFPQ?target=10.1002/hast.1486
 
 [image-1]:	/assets/img/jacob-moses-20.jpg
