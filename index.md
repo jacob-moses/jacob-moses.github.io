@@ -22,6 +22,7 @@ Before pursuing his doctoral studies, he worked for several years at [ The Hast
 - June 2023: ["Gender-Affirming Care for Cisgender People" article published in Hastings Center Report.][9]
 - May 2023: [Special issue of the Journal of the History of Medicine and Allied Sciences, "Healthcare Practitioners’ Emotions and the Politics of Well-Being in Twentieth Century Anglo-America"][7]
 - May 2023: [Perspective in Washington Post, "An AI Moratorium Probably Is Not the Answer"][8]
+- 2023: [Perspective in New England Journal of Medicine, "Obstacles to Physicians’ Emotional Health — Lessons from History"][10]
 
 For further details, please [see CV][6].
 
@@ -34,5 +35,6 @@ For further details, please [see CV][6].
 [7]:  https://academic.oup.com/jhmas/advance-article/doi/10.1093/jhmas/jrad023/7153063
 [8]:  https://wapo.st/3Nkh2aS
 [9]:  https://onlinelibrary.wiley.com/share/author/SKVMKRT6FGGIRHTPUFPQ?target=10.1002/hast.1486
+[10]: https://www.nejm.org/doi/full/10.1056/NEJMp2112095
 
 [image-1]:	/assets/img/jacob-moses-20.jpg
