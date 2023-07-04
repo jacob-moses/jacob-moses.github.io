@@ -19,6 +19,7 @@ He received his Ph.D. in [History of Science from Harvard University][3] (2020),
 Before pursuing his doctoral studies, he worked for several years at [ The Hastings Center][5] on interdisciplinary bioethics research and public outreach projects ranging from pandemic preparedness to the ethics of synthetic biology.
 
 ### Recent Publications
+- July 2023: [Article in Annals of Internal Medicine, "Unjust Discrimination Between Cisgender and Transgender Gender-Affirming Care."][11]
 - June 2023: ["Gender-Affirming Care for Cisgender People" article published in Hastings Center Report.][9]
 - May 2023: [Special issue of Journal of the History of Medicine and Allied Sciences, "Healthcare Practitioners’ Emotions and the Politics of Well-Being in Twentieth Century Anglo-America"][7]
 - May 2023: [Perspective in Washington Post, "An AI Moratorium Probably Is Not the Answer"][8]
@@ -36,5 +37,6 @@ For further details, please [see CV][6].
 [8]:  https://wapo.st/3Nkh2aS
 [9]:  https://onlinelibrary.wiley.com/share/author/SKVMKRT6FGGIRHTPUFPQ?target=10.1002/hast.1486
 [10]: https://www.nejm.org/doi/full/10.1056/NEJMp2112095
+[11]: https://www.acpjournals.org/doi/10.7326/M23-0704
 
 [image-1]:	/assets/img/jacob-moses-20.jpg
