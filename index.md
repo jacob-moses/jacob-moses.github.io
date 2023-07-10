@@ -20,8 +20,8 @@ Before pursuing his doctoral studies, he worked for several years at [ The Hast
 
 ### Recent Publications
 - July 2023: [Article in Annals of Internal Medicine, "Unjust Discrimination Between Cisgender and Transgender Gender-Affirming Care."][11]
-- June 2023: ["Gender-Affirming Care for Cisgender People" article published in Hastings Center Report.][9]
-- May 2023: [Special issue of Journal of the History of Medicine and Allied Sciences, "Healthcare Practitioners’ Emotions and the Politics of Well-Being in Twentieth Century Anglo-America"][7]
+- June 2023: [Article in Hastings Center Report, "Gender-Affirming Care for Cisgender People."][9]
+- May 2023: [Editor of special issue of Journal of the History of Medicine and Allied Sciences, "Healthcare Practitioners’ Emotions and the Politics of Well-Being in Twentieth Century Anglo-America"][7]
 - May 2023: [Perspective in Washington Post, "An AI Moratorium Probably Is Not the Answer"][8]
 - 2022: [Perspective in New England Journal of Medicine, "Obstacles to Physicians’ Emotional Health — Lessons from History"][10]
 
