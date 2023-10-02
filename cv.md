@@ -105,7 +105,7 @@ layout: cv
 ### Conference Presentations and Invited Talks
 ::: {custom-style=Publications}
 
-|      |                                                                                                                                                                                                                                                                                                                                                             |
+|      |                                                                                                                                                                                                                                                                      |
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 | 2023 | “Applied Medical History,” panel with Lisa Haushofer, Lukas Engelmann, Beatrix Hoffman, Kirsten Moor-Sheeley, and Kylie Smith,  European Association for the History of Medicine and Health Conference, Oslo, Norway; August 31).                                                                                                      |
