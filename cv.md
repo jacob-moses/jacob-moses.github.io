@@ -225,6 +225,8 @@ layout: cv
 
 ### Teaching Awards
 
+Faculty Research Mentor Award (for scholarly products achieved with students), Center of Excellence for Professional Advancement and Research (COEPAR), University of Texas Medical Branch, 2023
+
 Awarded 6 Certificates of Distinction in Teaching from the Bok Center for Teaching and Learning, Harvard University: Fall 2015, Spring 2016, Spring 2017 (2), Fall 2018, Fall 2019
 
 ### Service to the Field
