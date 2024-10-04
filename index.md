@@ -12,6 +12,8 @@ layout: home
 
 ![Photo of Jacob Moses outside in front of trees and a brick wall.][image-1] Jacob Moses's research and teaching centers on the intersection of the history of medicine and public health, bioethics, and science & technology studies (STS). He studies biomedicine, public health, and biotechnology in the 20th and 21st centuries, with a particular focus on issues of ethics and governance. He is currently an assistant professor in the Department of Bioethics & Health Humanities at the University of Texas Medical Branch at Galveston.
 
+Dr. Moses is currently a principal investigator of the National Science Foundation-funded research project, "Collaborative Research: Behavioral Science and the Making of the Right-Reasoning Public Health Citizenry."
+
 His current book project, _Medical Regret without Remorse_, traces the history of therapeutic reversals in surgical practice from the mid-20th century to the present. In this research, he seeks to illuminate bureaucratic and affective responses to medical harm and develop a new account of how affect plays a role both among patients, medical professionals, and public health officials in shaping the current regime of biomedicine.
 
 He received his Ph.D. in [History of Science from Harvard University][3] (2020), where he also earned a secondary field in [Science, Technology, and Society][4]. He completed a postdoctoral fellowship in Medical Humanities and Social Medicine at [Johns Hopkins University][2]. His work has received support from the E. J. Safra Center for Ethics at Harvard University, the National Science Foundation, and the Science History Institute (formerly Chemical Heritage Foundation). 
