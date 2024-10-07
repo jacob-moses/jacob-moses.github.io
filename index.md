@@ -21,11 +21,11 @@ He received his Ph.D. in [History of Science from Harvard University][3] (2020),
 Before pursuing his doctoral studies, he worked for several years at [ The Hastings Center][5] on interdisciplinary bioethics research and public outreach projects ranging from pandemic preparedness to the ethics of synthetic biology.
 
 ### Recent Publications
-- July 2023: [Article in Annals of Internal Medicine, "Unjust Discrimination Between Cisgender and Transgender Gender-Affirming Care."][11]
-- June 2023: [Article in Hastings Center Report, "Gender-Affirming Care for Cisgender People."][9]
-- May 2023: [Editor of special issue of Journal of the History of Medicine and Allied Sciences, "Healthcare Practitioners’ Emotions and the Politics of Well-Being in Twentieth Century Anglo-America"][7]
-- May 2023: [Perspective in Washington Post, "An AI Moratorium Probably Is Not the Answer"][8]
-- 2022: [Perspective in New England Journal of Medicine, "Obstacles to Physicians’ Emotional Health — Lessons from History"][10]
+-  [Article in Annals of Internal Medicine, "Unjust Discrimination Between Cisgender and Transgender Gender-Affirming Care."][11]
+-  [Article in Hastings Center Report, "Gender-Affirming Care for Cisgender People."][9]
+-  [Editor of special issue of Journal of the History of Medicine and Allied Sciences, "Healthcare Practitioners’ Emotions and the Politics of Well-Being in Twentieth Century Anglo-America"][7]
+- [Perspective in Washington Post, "An AI Moratorium Probably Is Not the Answer"][8]
+- [Perspective in New England Journal of Medicine, "Obstacles to Physicians’ Emotional Health — Lessons from History"][10]
 
 For further details, please [see CV][6].
 
