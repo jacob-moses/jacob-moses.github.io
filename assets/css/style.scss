@@ -4,12 +4,12 @@
 @import "{{ site.theme }}";
 
 body {
-background-color: rgb(230, 221, 222);
+background-color: #ffffff;
 color: rgb(101, 74, 78);
 }
 
 .markdown-body {
-background-color: #f5f0f0;
+//background-color: #f5f0f0;
 }
 
 ::selection {
