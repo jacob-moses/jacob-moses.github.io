@@ -4,7 +4,7 @@ layout: cv
 --- 
 # Jacob D. Moses, Ph.D.
 ::: {custom-style=Publications}
-#### [jacob@jdmoses.com] • website: [jdmoses.com][2]
+#### jacob@jdmoses.com
 :::
 
 ### Current Appointment
