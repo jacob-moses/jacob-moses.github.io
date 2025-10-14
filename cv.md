@@ -51,7 +51,7 @@ layout: cv
 
 ### Professional Experience
 
-#### The Hastings Center, Garrison, NY
+#### The Hastings Center for Bioethics, Garrison, NY
 
 |         |                    |
 | ------- | ------------------ |
