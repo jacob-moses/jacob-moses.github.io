@@ -4,7 +4,6 @@ layout: cv
 --- 
 # Jacob D. Moses, Ph.D.
 ::: {custom-style=Publications}
-#### jdmoses@utmb.edu
 :::
 
 ### Current Appointment
