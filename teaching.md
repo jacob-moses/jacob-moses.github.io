@@ -9,11 +9,8 @@ layout: teaching
 
 I seek out innovative methods of teaching and assessing inclusive learning that promotes diversity and equity. I was an inaugural pedagogy fellow at the [Edmond J. Safra Center of Ethics at Harvard University][1], where I focused on project-based learning and syllabus design. I have taught in flipped-classroom models and co-designed workshop courses centered on the development of student projects.
 
-For my teaching at Harvard College, I was awarded six Certificates of Distinction in Teaching from the Bok Center for Teaching and Learning.
-
-For further details, [see my CV][2].
+For my teaching at Harvard College, I was awarded six Certificates of Distinction in Teaching from the Bok Center for Teaching and Learning. At the University of Texas Medical Branch, I have have been recognized with Faculty Research Mentor Award.
 
 [1]:	https://ethics.harvard.edu
-[2]:	/cv/ "Curriculum Vitae"
 
 [image-1]:	/assets/img/jacob-moses-2017.jpg
