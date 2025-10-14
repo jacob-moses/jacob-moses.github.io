@@ -4,7 +4,7 @@ layout: cv
 --- 
 # Jacob D. Moses, Ph.D.
 ::: {custom-style=Publications}
-#### jacob@jdmoses.com
+#### jdmoses@utmb.edu
 :::
 
 ### Current Appointment
@@ -59,4 +59,4 @@ layout: cv
 | 2009–13 | New Media Director |
 | 2007–09 | Research Assistant |
 
-**Please email jacob@jdmoses.com for a current CV.**
+**Please email jdmoses@utmb.edu for a current CV.**
