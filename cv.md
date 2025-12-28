@@ -12,8 +12,8 @@ layout: cv
 
 |       |                                                                                                          |
 | ----- | -------------------------------------------------------------------------------------------------------- |
+| 2025– | Graduate Program Director, Department of Bioethics & Health Humanities |
 | 2024– | Hobby Family Professorship in Medical Humanities |
-| 2024– | Graduate Program Director, Department of Bioethics & Health Humanities |
 | 2022– | Assistant Professor, Department of Bioethics & Health Humanities, School of Public and Population Health |
 |       | Faculty Member, Institute for Bioethics & Health Humanities                                              |
 
