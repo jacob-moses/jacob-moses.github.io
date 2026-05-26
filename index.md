@@ -27,4 +27,4 @@ Before pursuing his doctoral studies, he worked for several years at [ The Hast
 [4]:	http://sts.hks.harvard.edu
 [5]:	https://www.thehastingscenter.org
 
-[image-1]:	/assets/img/jacob-moses-20.jpg
+[image-1]:	/assets/img/jacob-moses-26.jpg
